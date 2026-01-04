@@ -1,0 +1,128 @@
+{
+  "appData": {
+    "title": "Echo – AI Meeting Note Taker",
+    "description": "Every word matters. Echo makes sure you keep it.\n\nPeople forget 70% of new information within a day – but not with Echo. That 2-hour meeting, client call, or late-night brainstorming session? Echo transcribes every word, extracts key insights, and organizes them into clear, structured notes. Stay focused in the moment, knowing everything is captured and ready when you need it.\n__________________________________\n\nHOW ECHO WORKS:\n\nRECORD: Capture meetings or lectures live with one tap or upload existing audio to transcribe it instantly.\nCONVERT: Get a full, accurate transcript in seconds, along with AI-powered summaries and key takeaways for quick review and action.\nSHARE: Easily send notes and summaries to stay organized and keep everyone on track.\n__________________________________\n\nFROM CHAOS TO CLARITY:\n\nEcho’s AI summarizes conversations, highlights key moments, and extracts actionable items, ensuring no idea is lost. It's the easiest way to stay organized and take action on every important takeaway.\n\nFOR VISIONARIES:\n\nEcho is perfect for professionals, students, and creatives who need to focus on what matters. Turn raw conversations into organized, actionable results with minimal effort.\n__________________________________\n\nKEY FEATURES:\n\n• AI-Powered Summaries\nSort through the noise and prioritize what's most important.\n\n• Smart Key Points\nHighlight key moments and actionable insights from any conversation.\n\n• Ask Echo AI\nAsk questions about your notes and get quick answers without reading the whole transcript.\n\n• Google Meet Integration\nPaste your meeting link, and Echo joins automatically. Get transcripts and summaries when the call ends – no manual recording needed.\n\n• Easy Sharing\nShare summaries directly via text, email, or your preferred platform.\n\n• Organize & Track\nKeep all your insights in one place and track important takeaways with ease.\n____________________________________\n\nWHY CHOOSE ECHO?\n\nEcho ensures that every conversation becomes a powerful tool for action. Capture, refine, and apply insights effortlessly, boosting your productivity and creativity.\n\nPrivacy Policy: https://www.iubenda.com/privacy-policy/27023519\nTerms of Use: https://www.iubenda.com/terms-and-conditions/27023519\n\nHave questions or feedback? We’d love to hear from you! Reach out to us at echo.support@tappz.com.",
+    "genres": [
+      "Productivity",
+      "Education"
+    ],
+    "screenshots": []
+  },
+  "lastAnalyzedIndex": 13,
+  "totalKeywords": 165,
+  "results": [
+    {
+      "keyword": "echo",
+      "traffic": 29,
+      "difficulty": 94,
+      "opportunity": 20,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:19:10.972Z"
+    },
+    {
+      "keyword": "ai meeting notes",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:19:21.880Z"
+    },
+    {
+      "keyword": "meeting note taker",
+      "traffic": 25,
+      "difficulty": 67,
+      "opportunity": 28,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:19:33.188Z"
+    },
+    {
+      "keyword": "ai notes",
+      "traffic": 27,
+      "difficulty": 65,
+      "opportunity": 30,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:19:44.913Z"
+    },
+    {
+      "keyword": "meeting transcriber",
+      "traffic": 0,
+      "difficulty": 0,
+      "opportunity": 40,
+      "recommendation": "analysis_failed",
+      "analyzedAt": "2025-12-30T22:19:47.294Z"
+    },
+    {
+      "keyword": "audio transcriber",
+      "traffic": 0,
+      "difficulty": 0,
+      "opportunity": 40,
+      "recommendation": "analysis_failed",
+      "analyzedAt": "2025-12-30T22:19:50.679Z"
+    },
+    {
+      "keyword": "meeting summarizer",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:19:58.475Z"
+    },
+    {
+      "keyword": "note organizer",
+      "traffic": 26,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:20:10.451Z"
+    },
+    {
+      "keyword": "transcription service",
+      "traffic": 12,
+      "difficulty": 27,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:20:21.474Z"
+    },
+    {
+      "keyword": "voice to text",
+      "traffic": 20,
+      "difficulty": 50,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:20:32.856Z"
+    },
+    {
+      "keyword": "google meet notes",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:20:44.010Z"
+    },
+    {
+      "keyword": "key takeaways",
+      "traffic": 13,
+      "difficulty": 16,
+      "opportunity": 41,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:20:53.157Z"
+    },
+    {
+      "keyword": "actionable insights",
+      "traffic": 13,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:21:04.063Z"
+    },
+    {
+      "keyword": "productivity tool",
+      "traffic": 25,
+      "difficulty": 55,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:21:15.042Z"
+    }
+  ],
+  "lastUpdated": "2025-12-30T22:21:15.042Z"
+}

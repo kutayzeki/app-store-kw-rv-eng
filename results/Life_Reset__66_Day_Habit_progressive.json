@@ -1,0 +1,1796 @@
+{
+  "appData": {
+    "title": "Life Reset: 66 Day Habit",
+    "description": "Life Reset: Your 66-Day Path to Change\n\nStruggling with motivation or direction? Life Reset (formerly Rise) offers a personalized 66-day program designed to help you reset your life. Tailored for individuals seeking purpose and a fresh start, Life Reset isn’t just an app — it’s your companion on the journey to self-improvement.\n\nHow Life Reset Works\n\n1. Personalized Program Generation\nStart with a simple questionnaire about your current lifestyle. Life Reset creates a custom life reset plan focusing on six key areas: Sleep, Water, Exercise, Mind, Screen Time, and Shower Habits.\n\n2. Gradual Challenge Increase\nEach week, your tasks evolve — becoming slightly more challenging to help you grow and strengthen your daily routines.\n\n3. Daily Reminders & Tasks\nEvery morning, Life Reset presents your daily tasks. Check them off by midnight and watch your progress unfold.\n\nWhy 66 Days?\n\nResearch shows that forming new habits takes about 66 days. Life Reset leverages this science-backed timeframe to help you build lasting, positive changes.\n\nJoin the Life Reset Movement\n\nLife Reset is more than self-improvement — it’s about community. Share your successes, gain insights from others, and be part of a supportive network committed to growth.\n\nDownload Life Reset now and take the first step toward a more fulfilled and motivated life.\nYour 66-day transformation starts today.\n\nSUBSCRIPTION INFORMATION\n\nFull access to all features and the Life Reset program is available through a paid subscription (Monthly or Yearly). Before subscribing, you can preview your personalized program.\n\nIf you choose a Life Reset Monthly or Yearly plan, payment will be charged to your iTunes Account at confirmation of purchase. These features require a separate in-app purchase (Life Reset Monthly/Yearly Subscription).\n\nYour subscription will automatically renew unless auto-renew is turned off in your iTunes Account Settings at least 24 hours before the current period ends. You can manage your subscription and disable auto-renewal in your iTunes Account Settings.",
+    "genres": [
+      "Health & Fitness",
+      "Productivity"
+    ],
+    "screenshots": []
+  },
+  "lastAnalyzedIndex": 177,
+  "totalKeywords": 178,
+  "results": [
+    {
+      "keyword": "life reset",
+      "traffic": 14,
+      "difficulty": 41,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:50:41.382Z"
+    },
+    {
+      "keyword": "66 day habit",
+      "traffic": 16,
+      "difficulty": 37,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:50:52.702Z"
+    },
+    {
+      "keyword": "habit",
+      "traffic": 20,
+      "difficulty": 72,
+      "opportunity": 23,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:51:03.518Z"
+    },
+    {
+      "keyword": "reset life",
+      "traffic": 14,
+      "difficulty": 39,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:51:14.176Z"
+    },
+    {
+      "keyword": "self improvement",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:51:25.353Z"
+    },
+    {
+      "keyword": "motivation",
+      "traffic": 27,
+      "difficulty": 84,
+      "opportunity": 23,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:51:36.372Z"
+    },
+    {
+      "keyword": "new habits",
+      "traffic": 19,
+      "difficulty": 37,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:51:47.455Z"
+    },
+    {
+      "keyword": "daily habits",
+      "traffic": 21,
+      "difficulty": 42,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:51:58.559Z"
+    },
+    {
+      "keyword": "habit builder",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:52:10.267Z"
+    },
+    {
+      "keyword": "habit tracker",
+      "traffic": 25,
+      "difficulty": 74,
+      "opportunity": 25,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:52:21.667Z"
+    },
+    {
+      "keyword": "personalized program",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:52:32.409Z"
+    },
+    {
+      "keyword": "66 day program",
+      "traffic": 15,
+      "difficulty": 31,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:52:43.588Z"
+    },
+    {
+      "keyword": "daily routines",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T02:52:48.040Z"
+    },
+    {
+      "keyword": "daily tasks",
+      "traffic": 27,
+      "difficulty": 59,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:52:58.272Z"
+    },
+    {
+      "keyword": "fresh start",
+      "traffic": 27,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:53:07.969Z"
+    },
+    {
+      "keyword": "life transformation",
+      "traffic": 12,
+      "difficulty": 28,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:53:18.574Z"
+    },
+    {
+      "keyword": "sleep habits",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:53:29.763Z"
+    },
+    {
+      "keyword": "water habits",
+      "traffic": 20,
+      "difficulty": 44,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:53:40.867Z"
+    },
+    {
+      "keyword": "exercise habits",
+      "traffic": 18,
+      "difficulty": 37,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:53:51.534Z"
+    },
+    {
+      "keyword": "mind habits",
+      "traffic": 19,
+      "difficulty": 38,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:54:02.530Z"
+    },
+    {
+      "keyword": "screen time habits",
+      "traffic": 14,
+      "difficulty": 34,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:54:13.479Z"
+    },
+    {
+      "keyword": "shower habits",
+      "traffic": 13,
+      "difficulty": 22,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:54:24.165Z"
+    },
+    {
+      "keyword": "positive changes",
+      "traffic": 13,
+      "difficulty": 24,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:54:35.231Z"
+    },
+    {
+      "keyword": "build habits",
+      "traffic": 16,
+      "difficulty": 30,
+      "opportunity": 38,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:54:46.176Z"
+    },
+    {
+      "keyword": "lock in",
+      "traffic": 22,
+      "difficulty": 56,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:54:56.929Z"
+    },
+    {
+      "keyword": "reset your life",
+      "traffic": 13,
+      "difficulty": 43,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:55:07.466Z"
+    },
+    {
+      "keyword": "goal tracker",
+      "traffic": 26,
+      "difficulty": 68,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:55:18.380Z"
+    },
+    {
+      "keyword": "productivity",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:55:29.418Z"
+    },
+    {
+      "keyword": "discipline",
+      "traffic": 19,
+      "difficulty": 47,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:55:40.219Z"
+    },
+    {
+      "keyword": "focus",
+      "traffic": 19,
+      "difficulty": 72,
+      "opportunity": 23,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:55:51.350Z"
+    },
+    {
+      "keyword": "personal growth",
+      "traffic": 26,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:56:01.978Z"
+    },
+    {
+      "keyword": "accountability",
+      "traffic": 16,
+      "difficulty": 39,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:56:13.350Z"
+    },
+    {
+      "keyword": "journaling",
+      "traffic": 22,
+      "difficulty": 42,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:56:24.778Z"
+    },
+    {
+      "keyword": "mindfulness",
+      "traffic": 27,
+      "difficulty": 65,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:56:35.900Z"
+    },
+    {
+      "keyword": "breathing exercises",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:56:46.867Z"
+    },
+    {
+      "keyword": "affirmations",
+      "traffic": 26,
+      "difficulty": 89,
+      "opportunity": 20,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:56:57.531Z"
+    },
+    {
+      "keyword": "quit habits",
+      "traffic": 18,
+      "difficulty": 37,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:57:09.016Z"
+    },
+    {
+      "keyword": "habit streaks",
+      "traffic": 16,
+      "difficulty": 37,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:57:20.675Z"
+    },
+    {
+      "keyword": "personal goals",
+      "traffic": 18,
+      "difficulty": 39,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:57:32.013Z"
+    },
+    {
+      "keyword": "ai coach",
+      "traffic": 23,
+      "difficulty": 54,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:57:42.678Z"
+    },
+    {
+      "keyword": "track habits",
+      "traffic": 18,
+      "difficulty": 41,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:57:54.304Z"
+    },
+    {
+      "keyword": "habits",
+      "traffic": 20,
+      "difficulty": 59,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:58:05.849Z"
+    },
+    {
+      "keyword": "confidence",
+      "traffic": 15,
+      "difficulty": 48,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:58:16.591Z"
+    },
+    {
+      "keyword": "daily challenges",
+      "traffic": 17,
+      "difficulty": 38,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:58:27.906Z"
+    },
+    {
+      "keyword": "consistency",
+      "traffic": 20,
+      "difficulty": 45,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:58:38.695Z"
+    },
+    {
+      "keyword": "fitness goals",
+      "traffic": 19,
+      "difficulty": 40,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:58:50.079Z"
+    },
+    {
+      "keyword": "mindset",
+      "traffic": 28,
+      "difficulty": 76,
+      "opportunity": 26,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:59:00.746Z"
+    },
+    {
+      "keyword": "build discipline",
+      "traffic": 13,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:59:11.779Z"
+    },
+    {
+      "keyword": "better habits",
+      "traffic": 17,
+      "difficulty": 37,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:59:23.006Z"
+    },
+    {
+      "keyword": "track streak",
+      "traffic": 23,
+      "difficulty": 51,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:59:34.039Z"
+    },
+    {
+      "keyword": "self discipline",
+      "traffic": 15,
+      "difficulty": 30,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:59:45.544Z"
+    },
+    {
+      "keyword": "screen time control",
+      "traffic": 15,
+      "difficulty": 47,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T02:59:56.803Z"
+    },
+    {
+      "keyword": "screen time addiction",
+      "traffic": 13,
+      "difficulty": 35,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:00:08.158Z"
+    },
+    {
+      "keyword": "phone addiction",
+      "traffic": 17,
+      "difficulty": 33,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:00:19.747Z"
+    },
+    {
+      "keyword": "digital wellbeing",
+      "traffic": 17,
+      "difficulty": 39,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:00:30.777Z"
+    },
+    {
+      "keyword": "exercise app timer",
+      "traffic": 17,
+      "difficulty": 40,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:00:42.174Z"
+    },
+    {
+      "keyword": "pushups for scrolling",
+      "traffic": 12,
+      "difficulty": 22,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:00:54.030Z"
+    },
+    {
+      "keyword": "workout to unlock",
+      "traffic": 17,
+      "difficulty": 41,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:01:04.897Z"
+    },
+    {
+      "keyword": "app blocker",
+      "traffic": 16,
+      "difficulty": 33,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:01:16.004Z"
+    },
+    {
+      "keyword": "social media blocker",
+      "traffic": 14,
+      "difficulty": 39,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:01:27.240Z"
+    },
+    {
+      "keyword": "productivity focus",
+      "traffic": 14,
+      "difficulty": 37,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:01:38.703Z"
+    },
+    {
+      "keyword": "dopamine detox",
+      "traffic": 16,
+      "difficulty": 33,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:01:49.973Z"
+    },
+    {
+      "keyword": "fitness motivation",
+      "traffic": 25,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:02:00.921Z"
+    },
+    {
+      "keyword": "gamified fitness",
+      "traffic": 13,
+      "difficulty": 29,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:02:12.258Z"
+    },
+    {
+      "keyword": "habit building",
+      "traffic": 17,
+      "difficulty": 38,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:02:23.302Z"
+    },
+    {
+      "keyword": "reduce screen time",
+      "traffic": 15,
+      "difficulty": 39,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:02:35.583Z"
+    },
+    {
+      "keyword": "phone usage control",
+      "traffic": 25,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:02:46.686Z"
+    },
+    {
+      "keyword": "workout streaks",
+      "traffic": 18,
+      "difficulty": 42,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:02:57.941Z"
+    },
+    {
+      "keyword": "exercise rewards",
+      "traffic": 18,
+      "difficulty": 40,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:03:09.043Z"
+    },
+    {
+      "keyword": "focus improvement",
+      "traffic": 13,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:03:19.932Z"
+    },
+    {
+      "keyword": "scroll control",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:03:30.593Z"
+    },
+    {
+      "keyword": "limit scrolling",
+      "traffic": 13,
+      "difficulty": 23,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:03:41.193Z"
+    },
+    {
+      "keyword": "fitness gains",
+      "traffic": 15,
+      "difficulty": 28,
+      "opportunity": 38,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:03:52.088Z"
+    },
+    {
+      "keyword": "bodyweight workouts",
+      "traffic": 25,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:04:03.320Z"
+    },
+    {
+      "keyword": "healthy habits",
+      "traffic": 26,
+      "difficulty": 53,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:04:14.646Z"
+    },
+    {
+      "keyword": "screen time management",
+      "traffic": 14,
+      "difficulty": 38,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:04:25.877Z"
+    },
+    {
+      "keyword": "evolve",
+      "traffic": 17,
+      "difficulty": 62,
+      "opportunity": 25,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:04:37.023Z"
+    },
+    {
+      "keyword": "transform life",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:04:47.622Z"
+    },
+    {
+      "keyword": "habit tracking",
+      "traffic": 16,
+      "difficulty": 38,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:04:58.903Z"
+    },
+    {
+      "keyword": "goal setting",
+      "traffic": 17,
+      "difficulty": 33,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:05:10.213Z"
+    },
+    {
+      "keyword": "daily routine",
+      "traffic": 26,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:05:21.553Z"
+    },
+    {
+      "keyword": "achieve goals",
+      "traffic": 14,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:05:32.730Z"
+    },
+    {
+      "keyword": "progress tracker",
+      "traffic": 17,
+      "difficulty": 44,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:05:43.919Z"
+    },
+    {
+      "keyword": "rank advancement",
+      "traffic": 13,
+      "difficulty": 26,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:05:53.539Z"
+    },
+    {
+      "keyword": "guided journaling",
+      "traffic": 17,
+      "difficulty": 36,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:06:05.208Z"
+    },
+    {
+      "keyword": "breathing sessions",
+      "traffic": 15,
+      "difficulty": 31,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:06:16.808Z"
+    },
+    {
+      "keyword": "motivational quotes",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:06:27.955Z"
+    },
+    {
+      "keyword": "mental reset",
+      "traffic": 14,
+      "difficulty": 31,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:06:38.855Z"
+    },
+    {
+      "keyword": "ai guidance",
+      "traffic": 25,
+      "difficulty": 58,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:06:49.540Z"
+    },
+    {
+      "keyword": "fitness habits",
+      "traffic": 23,
+      "difficulty": 50,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:07:00.832Z"
+    },
+    {
+      "keyword": "mindfulness habits",
+      "traffic": 18,
+      "difficulty": 40,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:07:11.876Z"
+    },
+    {
+      "keyword": "career goals",
+      "traffic": 14,
+      "difficulty": 29,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:07:22.780Z"
+    },
+    {
+      "keyword": "discipline builder",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:07:33.393Z"
+    },
+    {
+      "keyword": "positive habits",
+      "traffic": 15,
+      "difficulty": 32,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:07:44.796Z"
+    },
+    {
+      "keyword": "recovery insights",
+      "traffic": 15,
+      "difficulty": 31,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:07:55.668Z"
+    },
+    {
+      "keyword": "daily motivation",
+      "traffic": 25,
+      "difficulty": 63,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:08:06.620Z"
+    },
+    {
+      "keyword": "peptalk",
+      "traffic": 24,
+      "difficulty": 52,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:08:17.424Z"
+    },
+    {
+      "keyword": "motivational videos",
+      "traffic": 13,
+      "difficulty": 23,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:08:28.101Z"
+    },
+    {
+      "keyword": "motivational audios",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T03:08:32.016Z"
+    },
+    {
+      "keyword": "inspirational quotes",
+      "traffic": 24,
+      "difficulty": 58,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:08:41.764Z"
+    },
+    {
+      "keyword": "daily affirmations",
+      "traffic": 25,
+      "difficulty": 64,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:08:53.168Z"
+    },
+    {
+      "keyword": "focus productivity",
+      "traffic": 13,
+      "difficulty": 35,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:09:04.619Z"
+    },
+    {
+      "keyword": "mental habits",
+      "traffic": 16,
+      "difficulty": 31,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:09:15.321Z"
+    },
+    {
+      "keyword": "overcome challenges",
+      "traffic": 12,
+      "difficulty": 24,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:09:27.453Z"
+    },
+    {
+      "keyword": "combat anxiety",
+      "traffic": 14,
+      "difficulty": 27,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:09:38.115Z"
+    },
+    {
+      "keyword": "overcome depression",
+      "traffic": 17,
+      "difficulty": 36,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:09:48.728Z"
+    },
+    {
+      "keyword": "fitness",
+      "traffic": 28,
+      "difficulty": 87,
+      "opportunity": 22,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:09:59.953Z"
+    },
+    {
+      "keyword": "positive mindset",
+      "traffic": 25,
+      "difficulty": 55,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:10:11.039Z"
+    },
+    {
+      "keyword": "accomplish goals",
+      "traffic": 13,
+      "difficulty": 25,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:10:22.128Z"
+    },
+    {
+      "keyword": "happiness",
+      "traffic": 27,
+      "difficulty": 70,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:10:32.923Z"
+    },
+    {
+      "keyword": "wealth",
+      "traffic": 28,
+      "difficulty": 74,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:10:44.721Z"
+    },
+    {
+      "keyword": "wisdom",
+      "traffic": 16,
+      "difficulty": 62,
+      "opportunity": 25,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:10:55.417Z"
+    },
+    {
+      "keyword": "success",
+      "traffic": 16,
+      "difficulty": 61,
+      "opportunity": 25,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:11:06.186Z"
+    },
+    {
+      "keyword": "power mind",
+      "traffic": 15,
+      "difficulty": 36,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:11:17.210Z"
+    },
+    {
+      "keyword": "get rich",
+      "traffic": 26,
+      "difficulty": 53,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:11:28.320Z"
+    },
+    {
+      "keyword": "become fit",
+      "traffic": 27,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:11:39.231Z"
+    },
+    {
+      "keyword": "daily reminders",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:11:50.154Z"
+    },
+    {
+      "keyword": "daily alarm",
+      "traffic": 20,
+      "difficulty": 43,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:12:01.330Z"
+    },
+    {
+      "keyword": "offline listening",
+      "traffic": 25,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:12:12.090Z"
+    },
+    {
+      "keyword": "widgets",
+      "traffic": 28,
+      "difficulty": 78,
+      "opportunity": 26,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:12:23.087Z"
+    },
+    {
+      "keyword": "daily quote",
+      "traffic": 27,
+      "difficulty": 63,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:12:33.834Z"
+    },
+    {
+      "keyword": "daily audio",
+      "traffic": 27,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:12:44.873Z"
+    },
+    {
+      "keyword": "liftoff",
+      "traffic": 16,
+      "difficulty": 44,
+      "opportunity": 32,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:12:54.999Z"
+    },
+    {
+      "keyword": "ranked gym workouts",
+      "traffic": 20,
+      "difficulty": 52,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:13:06.231Z"
+    },
+    {
+      "keyword": "workout tracker",
+      "traffic": 21,
+      "difficulty": 58,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:13:17.527Z"
+    },
+    {
+      "keyword": "gym performance",
+      "traffic": 14,
+      "difficulty": 35,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:13:29.767Z"
+    },
+    {
+      "keyword": "track progress",
+      "traffic": 19,
+      "difficulty": 45,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:13:40.990Z"
+    },
+    {
+      "keyword": "compete friends",
+      "traffic": 17,
+      "difficulty": 40,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:13:52.041Z"
+    },
+    {
+      "keyword": "gym rank",
+      "traffic": 15,
+      "difficulty": 39,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:14:02.662Z"
+    },
+    {
+      "keyword": "gamified workout",
+      "traffic": 14,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:14:13.747Z"
+    },
+    {
+      "keyword": "workout logger",
+      "traffic": 20,
+      "difficulty": 49,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:14:24.879Z"
+    },
+    {
+      "keyword": "global leaderboards",
+      "traffic": 13,
+      "difficulty": 19,
+      "opportunity": 40,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:14:35.799Z"
+    },
+    {
+      "keyword": "progress visualization",
+      "traffic": 11,
+      "difficulty": 21,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:14:46.514Z"
+    },
+    {
+      "keyword": "custom exercises",
+      "traffic": 15,
+      "difficulty": 30,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:14:57.709Z"
+    },
+    {
+      "keyword": "strength training",
+      "traffic": 24,
+      "difficulty": 62,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:15:09.392Z"
+    },
+    {
+      "keyword": "workout log",
+      "traffic": 21,
+      "difficulty": 50,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:15:20.330Z"
+    },
+    {
+      "keyword": "social fitness",
+      "traffic": 16,
+      "difficulty": 38,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:15:32.159Z"
+    },
+    {
+      "keyword": "arise",
+      "traffic": 17,
+      "difficulty": 55,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:15:43.015Z"
+    },
+    {
+      "keyword": "level up",
+      "traffic": 16,
+      "difficulty": 41,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:15:53.675Z"
+    },
+    {
+      "keyword": "real life",
+      "traffic": 27,
+      "difficulty": 67,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:16:05.291Z"
+    },
+    {
+      "keyword": "workout generator",
+      "traffic": 23,
+      "difficulty": 58,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:16:16.334Z"
+    },
+    {
+      "keyword": "custom workout plan",
+      "traffic": 22,
+      "difficulty": 56,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:16:27.839Z"
+    },
+    {
+      "keyword": "daily quests",
+      "traffic": 21,
+      "difficulty": 44,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:16:38.930Z"
+    },
+    {
+      "keyword": "earn rewards",
+      "traffic": 26,
+      "difficulty": 64,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:16:49.684Z"
+    },
+    {
+      "keyword": "dream physique",
+      "traffic": 16,
+      "difficulty": 32,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:17:00.710Z"
+    },
+    {
+      "keyword": "gain strength",
+      "traffic": 16,
+      "difficulty": 35,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:17:11.211Z"
+    },
+    {
+      "keyword": "aura farm",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T03:17:15.945Z"
+    },
+    {
+      "keyword": "fitness journey",
+      "traffic": 18,
+      "difficulty": 42,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:17:26.140Z"
+    },
+    {
+      "keyword": "lifestyle questions",
+      "traffic": 12,
+      "difficulty": 24,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:17:37.002Z"
+    },
+    {
+      "keyword": "life reset: 66 day habit",
+      "traffic": 11,
+      "difficulty": 32,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:17:47.770Z"
+    },
+    {
+      "keyword": "life reset : habitbff",
+      "traffic": 17,
+      "difficulty": 44,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:17:58.635Z"
+    },
+    {
+      "keyword": "28 shift — life reset app",
+      "traffic": 23,
+      "difficulty": 59,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:18:10.117Z"
+    },
+    {
+      "keyword": "66 days: life reset plan",
+      "traffic": 13,
+      "difficulty": 34,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:18:20.674Z"
+    },
+    {
+      "keyword": "75 hard challenge: life reset",
+      "traffic": 11,
+      "difficulty": 32,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:18:31.380Z"
+    },
+    {
+      "keyword": "90 day life reset challenge: t",
+      "traffic": 23,
+      "difficulty": 62,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:18:42.809Z"
+    },
+    {
+      "keyword": "forge: lock in & life reset",
+      "traffic": 14,
+      "difficulty": 34,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:18:53.729Z"
+    },
+    {
+      "keyword": "kairos: the 33-day life reset",
+      "traffic": 11,
+      "difficulty": 30,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:19:04.685Z"
+    },
+    {
+      "keyword": "light ai: life reset",
+      "traffic": 24,
+      "difficulty": 56,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:19:15.472Z"
+    },
+    {
+      "keyword": "empire: 66 day habits",
+      "traffic": 14,
+      "difficulty": 35,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:19:26.619Z"
+    },
+    {
+      "keyword": "the habit burger grill",
+      "traffic": 24,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:19:37.215Z"
+    },
+    {
+      "keyword": "microgoals – seven day habit",
+      "traffic": 12,
+      "difficulty": 34,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:19:48.582Z"
+    },
+    {
+      "keyword": "habitica",
+      "traffic": 27,
+      "difficulty": 63,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:19:59.490Z"
+    },
+    {
+      "keyword": "habit button",
+      "traffic": 15,
+      "difficulty": 35,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:20:11.241Z"
+    },
+    {
+      "keyword": "habit tracker: better habits",
+      "traffic": 15,
+      "difficulty": 44,
+      "opportunity": 31,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:20:22.110Z"
+    },
+    {
+      "keyword": "habitflow: routine & streaks",
+      "traffic": 13,
+      "difficulty": 32,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:20:32.824Z"
+    },
+    {
+      "keyword": "habit burger",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:20:43.759Z"
+    },
+    {
+      "keyword": "habitify",
+      "traffic": 19,
+      "difficulty": 40,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:20:54.929Z"
+    },
+    {
+      "keyword": "reload: reset life & lock in",
+      "traffic": 23,
+      "difficulty": 58,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:21:06.588Z"
+    },
+    {
+      "keyword": "kaizen ai: reset life 66 days",
+      "traffic": 18,
+      "difficulty": 47,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:21:17.851Z"
+    },
+    {
+      "keyword": "self improvement free",
+      "traffic": 23,
+      "difficulty": 55,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:21:28.694Z"
+    },
+    {
+      "keyword": "halo: self-improvement",
+      "traffic": 12,
+      "difficulty": 29,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:21:39.805Z"
+    },
+    {
+      "keyword": "mindvalley: self improvement",
+      "traffic": 12,
+      "difficulty": 32,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:21:50.474Z"
+    },
+    {
+      "keyword": "self improvement meditation",
+      "traffic": 18,
+      "difficulty": 48,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:22:01.118Z"
+    },
+    {
+      "keyword": "self-improvement quotes and method",
+      "traffic": 23,
+      "difficulty": 55,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:22:11.944Z"
+    },
+    {
+      "keyword": "self-improvement therapy",
+      "traffic": 12,
+      "difficulty": 28,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:22:22.767Z"
+    },
+    {
+      "keyword": "the self-improvement project",
+      "traffic": 11,
+      "difficulty": 26,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:22:33.697Z"
+    },
+    {
+      "keyword": "self improvement: weekslife",
+      "traffic": 23,
+      "difficulty": 59,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:22:44.821Z"
+    },
+    {
+      "keyword": "self improvement guide",
+      "traffic": 13,
+      "difficulty": 35,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:22:55.643Z"
+    }
+  ],
+  "lastUpdated": "2025-12-31T03:22:55.643Z"
+}

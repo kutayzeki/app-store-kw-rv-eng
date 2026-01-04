@@ -1,0 +1,83 @@
+================================================================================
+🏆 APP STORE KEYWORD ANALYSIS REPORT
+================================================================================
+
+📱 App: Life Reset: 66 Day Habit
+📊 Analysis Date: 12/31/2025, 6:22:55 AM
+🔍 Competitors Analyzed: 7
+🏷️  Total Keywords Found: 178
+
+📊 ANALYSIS SUMMARY
+--------------------------------------------------
+Total Keywords: 178
+Successfully Analyzed: 175
+⚠️  Failed to Analyze: 3 (API returned no data)
+🌟 Top Opportunities: 57
+📋 Worth Considering: 118
+⚠️  Challenging: 0
+❌ Avoid: 0
+
+🌟 TOP KEYWORD OPPORTUNITIES
+--------------------------------------------------
+🥇 build habits                   | Traffic:  16 | Difficulty:  30 | Opportunity: 38 | GOOD
+🥈 fitness gains                  | Traffic:  15 | Difficulty:  28 | Opportunity: 38 | GOOD
+🥉 new habits                     | Traffic:  19 | Difficulty:  37 | Opportunity: 37 | GOOD
+   66 day program                 | Traffic:  15 | Difficulty:  31 | Opportunity: 37 | GOOD
+   self discipline                | Traffic:  15 | Difficulty:  30 | Opportunity: 37 | GOOD
+   phone addiction                | Traffic:  17 | Difficulty:  33 | Opportunity: 37 | GOOD
+   goal setting                   | Traffic:  17 | Difficulty:  33 | Opportunity: 37 | GOOD
+   breathing sessions             | Traffic:  15 | Difficulty:  31 | Opportunity: 37 | GOOD
+   recovery insights              | Traffic:  15 | Difficulty:  31 | Opportunity: 37 | GOOD
+   mental habits                  | Traffic:  16 | Difficulty:  31 | Opportunity: 37 | GOOD
+   custom exercises               | Traffic:  15 | Difficulty:  30 | Opportunity: 37 | GOOD
+   dream physique                 | Traffic:  16 | Difficulty:  32 | Opportunity: 37 | GOOD
+   daily habits                   | Traffic:  21 | Difficulty:  42 | Opportunity: 36 | GOOD
+   exercise habits                | Traffic:  18 | Difficulty:  37 | Opportunity: 36 | GOOD
+   mind habits                    | Traffic:  19 | Difficulty:  38 | Opportunity: 36 | GOOD
+   journaling                     | Traffic:  22 | Difficulty:  42 | Opportunity: 36 | GOOD
+   quit habits                    | Traffic:  18 | Difficulty:  37 | Opportunity: 36 | GOOD
+   app blocker                    | Traffic:  16 | Difficulty:  33 | Opportunity: 36 | GOOD
+   dopamine detox                 | Traffic:  16 | Difficulty:  33 | Opportunity: 36 | GOOD
+   guided journaling              | Traffic:  17 | Difficulty:  36 | Opportunity: 36 | GOOD
+   ... and 37 more
+
+📋 WORTH CONSIDERING
+--------------------------------------------------
+   global leaderboards            | Traffic:  13 | Difficulty:  19 | Opportunity: 40
+   shower habits                  | Traffic:  13 | Difficulty:  22 | Opportunity: 39
+   limit scrolling                | Traffic:  13 | Difficulty:  23 | Opportunity: 39
+   motivational videos            | Traffic:  13 | Difficulty:  23 | Opportunity: 39
+   positive changes               | Traffic:  13 | Difficulty:  24 | Opportunity: 38
+   pushups for scrolling          | Traffic:  12 | Difficulty:  22 | Opportunity: 38
+   overcome challenges            | Traffic:  12 | Difficulty:  24 | Opportunity: 38
+   combat anxiety                 | Traffic:  14 | Difficulty:  27 | Opportunity: 38
+   accomplish goals               | Traffic:  13 | Difficulty:  25 | Opportunity: 38
+   progress visualization         | Traffic:  11 | Difficulty:  21 | Opportunity: 38
+   lifestyle questions            | Traffic:  12 | Difficulty:  24 | Opportunity: 38
+   personalized program           | Traffic:  13 | Difficulty:  28 | Opportunity: 37
+   scroll control                 | Traffic:  13 | Difficulty:  28 | Opportunity: 37
+   transform life                 | Traffic:  13 | Difficulty:  28 | Opportunity: 37
+   achieve goals                  | Traffic:  14 | Difficulty:  28 | Opportunity: 37
+
+🔧 FAILED ANALYSES (need retry)
+--------------------------------------------------
+3 keywords could not be analyzed. These should be retried.
+   - daily routines
+   - motivational audios
+   - aura farm
+
+🔍 KEYWORD SOURCES
+--------------------------------------------------
+Main App Keywords: 24
+Competitor Keywords: 145
+Autocomplete Suggestions: 33
+
+🎯 BUSINESS RECOMMENDATIONS
+--------------------------------------------------
+✅ PRIORITIZE: Focus ASO efforts on the top opportunities above
+   These keywords offer the best traffic-to-difficulty ratio
+
+💡 NEXT STEPS:
+   1. Test top keywords in app title and description
+   2. Monitor ranking improvements over 2-4 weeks
+   3. Re-run analysis quarterly as market changes

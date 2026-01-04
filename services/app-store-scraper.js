@@ -1,8 +1,8 @@
 const store = require('app-store-scraper');
 
 /**
- * Simple app store scraper service
- * Fetches app data by track ID from App Store
+ * App Store scraper service
+ * Fetches app data, similar apps, and search suggestions
  */
 async function getAppData(trackId) {
   try {
@@ -55,7 +55,31 @@ async function getSimilarApps(trackId) {
   }
 }
 
+/**
+ * Get App Store search suggestions (autocomplete)
+ * These are PROVEN user searches - what real users type
+ */
+async function getSearchSuggestions(term) {
+  try {
+    if (!term || term.trim().length === 0) {
+      return [];
+    }
+
+    // Use app-store-scraper's suggest function
+    const suggestions = await store.suggest({ term: term.trim() });
+    
+    // Extract just the search terms
+    return suggestions.map(s => s.term || s);
+    
+  } catch (error) {
+    // Suggestions failing shouldn't break the whole flow
+    console.warn(`Could not get suggestions for "${term}": ${error.message}`);
+    return [];
+  }
+}
+
 module.exports = {
   getAppData,
-  getSimilarApps
+  getSimilarApps,
+  getSearchSuggestions
 };

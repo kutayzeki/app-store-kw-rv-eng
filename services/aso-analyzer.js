@@ -22,11 +22,27 @@ class ASOAnalyzer {
       // Get keyword analysis from ASO-V2
       const analysis = await this.aso.analyzeKeyword(keyword);
       
-      // Extract scores from the correct properties
-      const trafficScore = analysis.traffic?.score || 0;
-      const difficultyScore = analysis.difficulty?.score || 0;
+      // DEFENSIVE PARSING: Check if we got valid data back
+      // Some keywords return undefined/null when there's no data (not an error, just no results)
+      if (!analysis || typeof analysis !== 'object') {
+        throw new Error('ASO returned empty or invalid response');
+      }
       
-      // Convert to 0-100 scale (ASO-V2 seems to use 0-10 scale)
+      // Check if traffic object exists and has a score
+      if (!analysis.traffic || analysis.traffic.score === undefined || analysis.traffic.score === null) {
+        throw new Error('No traffic data returned - keyword may have no search volume');
+      }
+      
+      // Check if difficulty object exists and has a score
+      if (!analysis.difficulty || analysis.difficulty.score === undefined || analysis.difficulty.score === null) {
+        throw new Error('No difficulty data returned - insufficient ranking data');
+      }
+      
+      // Extract scores from the correct properties
+      const trafficScore = analysis.traffic.score;
+      const difficultyScore = analysis.difficulty.score;
+      
+      // Convert to 0-100 scale (ASO-V2 uses 0-10 scale)
       const trafficScore100 = Math.round(trafficScore * 10);
       const difficultyScore100 = Math.round(difficultyScore * 10);
       
@@ -38,6 +54,7 @@ class ASOAnalyzer {
         competitionLevel: this.getCompetitionLevel(difficultyScore100),
         trafficLevel: this.getTrafficLevel(trafficScore100),
         recommendation: this.getRecommendation(trafficScore100, difficultyScore100),
+        analysisSucceeded: true,
         rawData: analysis,
         // Include detailed breakdown
         details: {
@@ -59,11 +76,12 @@ class ASOAnalyzer {
       return {
         keyword: keyword,
         platform: this.platform,
-        trafficScore: 0,
-        difficultyScore: 0,
+        trafficScore: null,  // null instead of 0 - distinguishes "failed" from "actually zero"
+        difficultyScore: null,
         competitionLevel: 'unknown',
         trafficLevel: 'unknown',
         recommendation: 'analysis_failed',
+        analysisSucceeded: false,
         error: error.message
       };
     }
@@ -119,24 +137,32 @@ class ASOAnalyzer {
 
   /**
    * Provides keyword recommendation based on traffic and difficulty
+   * CALIBRATED FOR REAL APP STORE DATA:
+   * - Most niche keywords have traffic scores of 10-30
+   * - Traffic 40+ is already considered good volume
+   * - Traffic 60+ is high-volume competitive terms
+   * 
    * @param {number} trafficScore - Traffic score (0-100)
    * @param {number} difficultyScore - Difficulty score (0-100)
    * @returns {string} Recommendation
    */
   getRecommendation(trafficScore, difficultyScore) {
-    // High traffic, low difficulty = excellent
-    if (trafficScore >= 60 && difficultyScore <= 40) return 'excellent';
+    // EXCELLENT: Good traffic with low competition - prioritize these!
+    // Traffic >= 25 (decent search volume) + Difficulty <= 35 (easy to rank)
+    if (trafficScore >= 25 && difficultyScore <= 35) return 'excellent';
     
-    // Medium traffic, low difficulty = good
-    if (trafficScore >= 40 && difficultyScore <= 50) return 'good';
+    // GOOD: Moderate traffic with manageable competition
+    // Traffic >= 15 (some volume) + Difficulty <= 45 (winnable)
+    if (trafficScore >= 15 && difficultyScore <= 45) return 'good';
     
-    // High traffic, high difficulty = challenging
-    if (trafficScore >= 60 && difficultyScore >= 70) return 'challenging';
+    // CHALLENGING: High traffic but very competitive
+    // Worth it only if it's core to your app
+    if (trafficScore >= 40 && difficultyScore >= 60) return 'challenging';
     
-    // Low traffic, high difficulty = avoid
-    if (trafficScore <= 30 && difficultyScore >= 60) return 'avoid';
+    // AVOID: Low traffic + high difficulty = waste of effort
+    if (trafficScore <= 15 && difficultyScore >= 50) return 'avoid';
     
-    // Medium values = consider
+    // CONSIDER: Everything else - evaluate case by case
     return 'consider';
   }
 

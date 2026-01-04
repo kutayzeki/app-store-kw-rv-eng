@@ -1,0 +1,81 @@
+================================================================================
+🏆 APP STORE KEYWORD ANALYSIS REPORT
+================================================================================
+
+📱 App: Cue - Smart AI Meeting Notes
+📊 Analysis Date: 12/31/2025, 2:37:28 AM
+🔍 Competitors Analyzed: 7
+🏷️  Total Keywords Found: 140
+
+📊 ANALYSIS SUMMARY
+--------------------------------------------------
+Total Keywords: 140
+Successfully Analyzed: 137
+⚠️  Failed to Analyze: 3 (API returned no data)
+🌟 Top Opportunities: 19
+📋 Worth Considering: 118
+⚠️  Challenging: 0
+❌ Avoid: 0
+
+🌟 TOP KEYWORD OPPORTUNITIES
+--------------------------------------------------
+🥇 unlimited recording            | Traffic:  15 | Difficulty:  28 | Opportunity: 38 | GOOD
+🥈 txt export                     | Traffic:  16 | Difficulty:  31 | Opportunity: 37 | GOOD
+🥉 generate outline               | Traffic:  19 | Difficulty:  37 | Opportunity: 37 | GOOD
+   brainstorm notes               | Traffic:  18 | Difficulty:  37 | Opportunity: 36 | GOOD
+   ai transcriber                 | Traffic:  15 | Difficulty:  33 | Opportunity: 36 | GOOD
+   share collaborate              | Traffic:  16 | Difficulty:  33 | Opportunity: 36 | GOOD
+   audio transcription            | Traffic:  19 | Difficulty:  42 | Opportunity: 35 | GOOD
+   video notes                    | Traffic:  21 | Difficulty:  44 | Opportunity: 35 | GOOD
+   record meetings                | Traffic:  21 | Difficulty:  45 | Opportunity: 35 | GOOD
+   speaker labels                 | Traffic:  21 | Difficulty:  44 | Opportunity: 35 | GOOD
+   itranscribe                    | Traffic:  20 | Difficulty:  43 | Opportunity: 35 | GOOD
+   free transcription             | Traffic:  19 | Difficulty:  40 | Opportunity: 35 | GOOD
+   smart search                   | Traffic:  15 | Difficulty:  37 | Opportunity: 34 | GOOD
+   import audio                   | Traffic:  20 | Difficulty:  44 | Opportunity: 34 | GOOD
+   video to text                  | Traffic:  18 | Difficulty:  43 | Opportunity: 34 | GOOD
+   calendar integration           | Traffic:  16 | Difficulty:  42 | Opportunity: 33 | GOOD
+   transcribe meetings            | Traffic:  19 | Difficulty:  45 | Opportunity: 33 | GOOD
+   ai summarizer                  | Traffic:  18 | Difficulty:  45 | Opportunity: 33 | GOOD
+   translate transcript           | Traffic:  19 | Difficulty:  45 | Opportunity: 33 | GOOD
+
+📋 WORTH CONSIDERING
+--------------------------------------------------
+   key takeaways                  | Traffic:  13 | Difficulty:  16 | Opportunity: 41
+   srt export                     | Traffic:  14 | Difficulty:  20 | Opportunity: 40
+   interview notes                | Traffic:  14 | Difficulty:  26 | Opportunity: 38
+   meeting summaries              | Traffic:  13 | Difficulty:  28 | Opportunity: 37
+   action items                   | Traffic:  14 | Difficulty:  28 | Opportunity: 37
+   multilingual notes             | Traffic:  13 | Difficulty:  28 | Opportunity: 37
+   search transcripts             | Traffic:  12 | Difficulty:  26 | Opportunity: 37
+   interview transcriber          | Traffic:  12 | Difficulty:  26 | Opportunity: 37
+   accurate transcripts           | Traffic:  12 | Difficulty:  26 | Opportunity: 37
+   export text                    | Traffic:  14 | Difficulty:  28 | Opportunity: 37
+   real time transcriber          | Traffic:  12 | Difficulty:  26 | Opportunity: 37
+   instant transcription          | Traffic:  12 | Difficulty:  26 | Opportunity: 37
+   transcribes meetings           | Traffic:  13 | Difficulty:  28 | Opportunity: 37
+   generate summary               | Traffic:  13 | Difficulty:  27 | Opportunity: 37
+   transcription tool             | Traffic:  13 | Difficulty:  27 | Opportunity: 37
+
+🔧 FAILED ANALYSES (need retry)
+--------------------------------------------------
+3 keywords could not be analyzed. These should be retried.
+   - real time transcription
+   - ai summaries
+   - live transcription
+
+🔍 KEYWORD SOURCES
+--------------------------------------------------
+Main App Keywords: 20
+Competitor Keywords: 144
+Autocomplete Suggestions: 21
+
+🎯 BUSINESS RECOMMENDATIONS
+--------------------------------------------------
+✅ PRIORITIZE: Focus ASO efforts on the top opportunities above
+   These keywords offer the best traffic-to-difficulty ratio
+
+💡 NEXT STEPS:
+   1. Test top keywords in app title and description
+   2. Monitor ranking improvements over 2-4 weeks
+   3. Re-run analysis quarterly as market changes

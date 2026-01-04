@@ -1,0 +1,1208 @@
+{
+  "appData": {
+    "title": "Flownote AI Meeting Note Taker",
+    "description": "Flownote AI: Smarter Meeting Notes and Transcripts\n\nStop taking notes and start focusing on the conversation. Flownote AI records, transcribes, and summarizes your meetings so every detail is captured clearly. Whether you use Zoom, Google Meet, Microsoft Teams, or meet in person, Flownote creates organized and searchable meeting notes automatically.\n\nFlownote is perfect for professionals, students, and anyone who wants accurate, AI-powered notes without the stress of writing everything down.\n\nWhy Flownote AI\n\nAI Meeting Notes and Transcripts\nRecord audio and convert speech to text with fast and accurate transcription.\n\nSpeaker Identification\nFlownote detects and labels each speaker so your notes are easy to read and understand.\n\nInstant AI Summaries\nReview the most important points, action items, and decisions in seconds.\n\nChat With Your Notes\nAsk questions about your transcripts and get instant answers using AI.\n\nOrganized and Searchable\nUse folders to keep your notes structured. Search across all notes to find information instantly.\n\nRecord From Anywhere\nFlownote works on your phone for remote meetings, office conversations, lectures, interviews, and podcasts.\n\nEasy Sharing\nShare transcripts and summaries with your team or clients instantly.\n\nPerfect For\n\n• Business meetings and project updates\n• Zoom, Google Meet, and Microsoft Teams calls\n• Lectures and study notes\n• Interviews and podcast recordings\n• Personal productivity and journaling\n\nKey Features\n\n• AI-powered transcription for clear and accurate voice to text\n• Speaker detection with automatic labeling\n• AI summaries that highlight key points and action items\n• Chat with your notes to get answers instantly\n• Organized folders for better structure\n• Cross-platform recording for online or in-person meetings\n• Easy sharing with teammates or clients\n• Full search across all transcripts\n\nWork smarter. Remember more. Stay organized.\n\nDownload Flownote AI and turn every conversation into clear and useful notes.\n\nNeed help? Contact us at support@dentlabs.xyz\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nPrivacy Policy: https://flownote.ai/privacy",
+    "genres": [
+      "Productivity",
+      "Business"
+    ],
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/25/91/8c25916d-3d34-c9ca-f678-41f99c7c86ad/5ab1fe3d-4bb4-448a-88a7-f1d134facd20_Frame_110.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/1b/ad/2f1badec-5879-da8a-5cc4-7774ca519f74/1ebed4d3-76ea-4a08-b73c-0e9009ecff84_Frame_111.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/c0/6e/9cc06e47-35a2-841d-6a40-d0724a95156a/a03c82f0-6011-4777-8bc3-df827f22a83b_Frame_112.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/8b/fe/408bfe7f-e72b-5ac5-6c0a-c0565381278e/6390a69c-d163-4a7f-b6e3-13ca2b4e09b2_Frame_113.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/15/1f/4a151f35-e9be-2688-7feb-c8b89ce20f4e/45fbdaa9-0832-4fd6-b1d9-785e0bf607fa_Frame_114.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/d2/de/01d2dea2-7c71-7f27-20b6-0531f734acf8/70e890fa-1cdc-4a1b-b895-0c34d6a9da2b_Frame_115.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/b3/1a/abb31a82-a2e5-67e6-1f1e-b3d2cde43e32/ca9ef5f1-1f20-45e6-832a-c401a3c3db4f_Frame_116.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/11/b5/b811b549-b59a-4675-be6c-88add92ea014/5f5b9c00-18f4-40a5-acf1-c6c6c0ffa137_Frame_117.jpg/392x696bb.jpg"
+    ]
+  },
+  "completedAt": "2025-12-30T22:51:47.585Z",
+  "totalKeywords": 147,
+  "results": [
+    {
+      "keyword": "askfred",
+      "traffic": 15,
+      "difficulty": 10,
+      "opportunity": 45,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:45:18.309Z"
+    },
+    {
+      "keyword": "ai summaries",
+      "traffic": 0,
+      "difficulty": 0,
+      "opportunity": 40,
+      "recommendation": "analysis_failed",
+      "analyzedAt": "2025-12-30T22:26:53.039Z"
+    },
+    {
+      "keyword": "live transcription",
+      "traffic": 0,
+      "difficulty": 0,
+      "opportunity": 40,
+      "recommendation": "analysis_failed",
+      "analyzedAt": "2025-12-30T22:29:42.253Z"
+    },
+    {
+      "keyword": "generate content",
+      "traffic": 0,
+      "difficulty": 0,
+      "opportunity": 40,
+      "recommendation": "analysis_failed",
+      "analyzedAt": "2025-12-30T22:30:19.304Z"
+    },
+    {
+      "keyword": "audio transcriber",
+      "traffic": 0,
+      "difficulty": 0,
+      "opportunity": 40,
+      "recommendation": "analysis_failed",
+      "analyzedAt": "2025-12-30T22:31:41.799Z"
+    },
+    {
+      "keyword": "soundbites",
+      "traffic": 0,
+      "difficulty": 0,
+      "opportunity": 40,
+      "recommendation": "analysis_failed",
+      "analyzedAt": "2025-12-30T22:45:33.589Z"
+    },
+    {
+      "keyword": "bible note taker",
+      "traffic": 0,
+      "difficulty": 0,
+      "opportunity": 40,
+      "recommendation": "analysis_failed",
+      "analyzedAt": "2025-12-30T22:50:52.536Z"
+    },
+    {
+      "keyword": "meetgeek",
+      "traffic": 15,
+      "difficulty": 26,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:38:11.446Z"
+    },
+    {
+      "keyword": "integrate slack",
+      "traffic": 13,
+      "difficulty": 23,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:41:51.533Z"
+    },
+    {
+      "keyword": "conversation notes",
+      "traffic": 13,
+      "difficulty": 24,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:32:48.092Z"
+    },
+    {
+      "keyword": "notes instantly",
+      "traffic": 14,
+      "difficulty": 27,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:37:27.064Z"
+    },
+    {
+      "keyword": "meeting highlights",
+      "traffic": 12,
+      "difficulty": 24,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:42:14.963Z"
+    },
+    {
+      "keyword": "summarize conversations",
+      "traffic": 11,
+      "difficulty": 22,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:46:25.726Z"
+    },
+    {
+      "keyword": "meeting summaries",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:26:37.347Z"
+    },
+    {
+      "keyword": "extract insights",
+      "traffic": 13,
+      "difficulty": 26,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:30:15.166Z"
+    },
+    {
+      "keyword": "chat with recording",
+      "traffic": 19,
+      "difficulty": 37,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:30:29.724Z"
+    },
+    {
+      "keyword": "meeting summarizer",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:32:56.734Z"
+    },
+    {
+      "keyword": "multilingual transcription",
+      "traffic": 11,
+      "difficulty": 25,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:33:08.302Z"
+    },
+    {
+      "keyword": "interview transcriber",
+      "traffic": 12,
+      "difficulty": 26,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:34:05.178Z"
+    },
+    {
+      "keyword": "file summarizer",
+      "traffic": 14,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:37:15.820Z"
+    },
+    {
+      "keyword": "offline conversations",
+      "traffic": 12,
+      "difficulty": 25,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:39:30.610Z"
+    },
+    {
+      "keyword": "review transcripts",
+      "traffic": 12,
+      "difficulty": 26,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:40:24.968Z"
+    },
+    {
+      "keyword": "zoom transcription",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:40:46.849Z"
+    },
+    {
+      "keyword": "summarize notes",
+      "traffic": 14,
+      "difficulty": 29,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:43:21.573Z"
+    },
+    {
+      "keyword": "meeting insights",
+      "traffic": 13,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:45:29.034Z"
+    },
+    {
+      "keyword": "action items",
+      "traffic": 14,
+      "difficulty": 28,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:45:54.584Z"
+    },
+    {
+      "keyword": "transcription",
+      "traffic": 15,
+      "difficulty": 31,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:47:17.601Z"
+    },
+    {
+      "keyword": "notes from audio",
+      "traffic": 13,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:29:28.873Z"
+    },
+    {
+      "keyword": "youtube transcription",
+      "traffic": 12,
+      "difficulty": 27,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:30:53.109Z"
+    },
+    {
+      "keyword": "interview transcription",
+      "traffic": 13,
+      "difficulty": 29,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:31:04.473Z"
+    },
+    {
+      "keyword": "live captioning",
+      "traffic": 13,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:31:16.364Z"
+    },
+    {
+      "keyword": "summarize audio",
+      "traffic": 13,
+      "difficulty": 29,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:31:52.169Z"
+    },
+    {
+      "keyword": "secure recording",
+      "traffic": 20,
+      "difficulty": 40,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:33:19.935Z"
+    },
+    {
+      "keyword": "professional notes",
+      "traffic": 13,
+      "difficulty": 29,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:33:42.316Z"
+    },
+    {
+      "keyword": "digital transcription",
+      "traffic": 12,
+      "difficulty": 27,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:34:16.416Z"
+    },
+    {
+      "keyword": "summarize local files",
+      "traffic": 21,
+      "difficulty": 42,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:35:24.458Z"
+    },
+    {
+      "keyword": "text simplifier",
+      "traffic": 15,
+      "difficulty": 33,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:35:35.592Z"
+    },
+    {
+      "keyword": "integrate notion",
+      "traffic": 13,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:41:41.258Z"
+    },
+    {
+      "keyword": "teams transcription",
+      "traffic": 14,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:44:58.321Z"
+    },
+    {
+      "keyword": "conversation intelligence",
+      "traffic": 13,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:45:43.348Z"
+    },
+    {
+      "keyword": "ai transcriber",
+      "traffic": 15,
+      "difficulty": 33,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:47:52.185Z"
+    },
+    {
+      "keyword": "record meetings",
+      "traffic": 21,
+      "difficulty": 45,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:27:03.567Z"
+    },
+    {
+      "keyword": "speaker identification",
+      "traffic": 14,
+      "difficulty": 33,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:27:37.119Z"
+    },
+    {
+      "keyword": "instant summaries",
+      "traffic": 17,
+      "difficulty": 39,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:27:48.070Z"
+    },
+    {
+      "keyword": "audio transcription",
+      "traffic": 19,
+      "difficulty": 42,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:28:56.055Z"
+    },
+    {
+      "keyword": "notes from video",
+      "traffic": 19,
+      "difficulty": 41,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:29:40.236Z"
+    },
+    {
+      "keyword": "speaker labels",
+      "traffic": 21,
+      "difficulty": 44,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:29:52.608Z"
+    },
+    {
+      "keyword": "ai-generated summary",
+      "traffic": 17,
+      "difficulty": 37,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:39:52.344Z"
+    },
+    {
+      "keyword": "google meet transcription",
+      "traffic": 11,
+      "difficulty": 28,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:40:57.836Z"
+    },
+    {
+      "keyword": "export transcripts",
+      "traffic": 18,
+      "difficulty": 39,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:41:31.269Z"
+    },
+    {
+      "keyword": "global search",
+      "traffic": 18,
+      "difficulty": 40,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:46:47.565Z"
+    },
+    {
+      "keyword": "lecture notes",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:32:26.136Z"
+    },
+    {
+      "keyword": "notes sharing",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:37:49.736Z"
+    },
+    {
+      "keyword": "transcribe video calls",
+      "traffic": 12,
+      "difficulty": 32,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:40:36.103Z"
+    },
+    {
+      "keyword": "audio recording",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:42:37.681Z"
+    },
+    {
+      "keyword": "transcribe audio ai",
+      "traffic": 19,
+      "difficulty": 47,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:28:44.858Z"
+    },
+    {
+      "keyword": "record live audio",
+      "traffic": 21,
+      "difficulty": 50,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:30:41.629Z"
+    },
+    {
+      "keyword": "automatic notes",
+      "traffic": 26,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:31:27.920Z"
+    },
+    {
+      "keyword": "smart summaries",
+      "traffic": 15,
+      "difficulty": 39,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:32:37.051Z"
+    },
+    {
+      "keyword": "ai summarizer",
+      "traffic": 18,
+      "difficulty": 45,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:35:02.524Z"
+    },
+    {
+      "keyword": "capture notes",
+      "traffic": 26,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:35:46.992Z"
+    },
+    {
+      "keyword": "quick notes",
+      "traffic": 27,
+      "difficulty": 59,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:35:58.166Z"
+    },
+    {
+      "keyword": "100+ languages",
+      "traffic": 26,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:36:32.437Z"
+    },
+    {
+      "keyword": "share notes",
+      "traffic": 27,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:36:43.212Z"
+    },
+    {
+      "keyword": "notes languages",
+      "traffic": 21,
+      "difficulty": 48,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:37:38.770Z"
+    },
+    {
+      "keyword": "voice transcription",
+      "traffic": 19,
+      "difficulty": 46,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:39:07.604Z"
+    },
+    {
+      "keyword": "transcribe meetings",
+      "traffic": 19,
+      "difficulty": 45,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:39:19.635Z"
+    },
+    {
+      "keyword": "ai highlights",
+      "traffic": 24,
+      "difficulty": 54,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:40:13.976Z"
+    },
+    {
+      "keyword": "share meeting notes",
+      "traffic": 25,
+      "difficulty": 54,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:41:20.154Z"
+    },
+    {
+      "keyword": "manage scheduled meetings",
+      "traffic": 23,
+      "difficulty": 53,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:42:02.211Z"
+    },
+    {
+      "keyword": "productivity tool",
+      "traffic": 25,
+      "difficulty": 55,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:43:43.893Z"
+    },
+    {
+      "keyword": "study tools",
+      "traffic": 27,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:44:05.294Z"
+    },
+    {
+      "keyword": "summarize meetings",
+      "traffic": 25,
+      "difficulty": 54,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:44:36.045Z"
+    },
+    {
+      "keyword": "video transcription",
+      "traffic": 25,
+      "difficulty": 55,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:44:47.185Z"
+    },
+    {
+      "keyword": "transcribe conversations",
+      "traffic": 11,
+      "difficulty": 33,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:46:16.829Z"
+    },
+    {
+      "keyword": "meeting automation",
+      "traffic": 24,
+      "difficulty": 53,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:46:36.633Z"
+    },
+    {
+      "keyword": "lecture recorder",
+      "traffic": 19,
+      "difficulty": 46,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:48:03.413Z"
+    },
+    {
+      "keyword": "meeting notes",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:26:04.419Z"
+    },
+    {
+      "keyword": "meeting transcripts",
+      "traffic": 25,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:26:26.335Z"
+    },
+    {
+      "keyword": "transcribe audio",
+      "traffic": 19,
+      "difficulty": 48,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:27:14.863Z"
+    },
+    {
+      "keyword": "speech to text",
+      "traffic": 20,
+      "difficulty": 51,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:27:26.092Z"
+    },
+    {
+      "keyword": "search notes",
+      "traffic": 26,
+      "difficulty": 58,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:27:59.285Z"
+    },
+    {
+      "keyword": "voice to text",
+      "traffic": 20,
+      "difficulty": 50,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:28:08.242Z"
+    },
+    {
+      "keyword": "instant notes",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:30:04.422Z"
+    },
+    {
+      "keyword": "organized notes",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:33:31.459Z"
+    },
+    {
+      "keyword": "student notes",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:33:53.754Z"
+    },
+    {
+      "keyword": "voice to notes",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:34:28.183Z"
+    },
+    {
+      "keyword": "gpt-4 ai",
+      "traffic": 27,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:34:51.188Z"
+    },
+    {
+      "keyword": "take notes instantly",
+      "traffic": 24,
+      "difficulty": 55,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:36:09.985Z"
+    },
+    {
+      "keyword": "notes by voice",
+      "traffic": 26,
+      "difficulty": 58,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:36:21.112Z"
+    },
+    {
+      "keyword": "ai-powered note-taking",
+      "traffic": 24,
+      "difficulty": 55,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:38:22.558Z"
+    },
+    {
+      "keyword": "transcribe speech to text",
+      "traffic": 11,
+      "difficulty": 36,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:38:33.597Z"
+    },
+    {
+      "keyword": "ai notebook",
+      "traffic": 27,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:43:10.413Z"
+    },
+    {
+      "keyword": "content chat",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:43:54.579Z"
+    },
+    {
+      "keyword": "ai notetaker",
+      "traffic": 21,
+      "difficulty": 51,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:44:16.334Z"
+    },
+    {
+      "keyword": "meeting notetaker",
+      "traffic": 25,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:44:27.199Z"
+    },
+    {
+      "keyword": "ai assistant",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:45:09.738Z"
+    },
+    {
+      "keyword": "meeting analysis",
+      "traffic": 24,
+      "difficulty": 55,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:46:05.332Z"
+    },
+    {
+      "keyword": "phone call recorder",
+      "traffic": 14,
+      "difficulty": 41,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:47:05.261Z"
+    },
+    {
+      "keyword": "note taking",
+      "traffic": 27,
+      "difficulty": 61,
+      "opportunity": 32,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:47:40.655Z"
+    },
+    {
+      "keyword": "meeting recorder",
+      "traffic": 25,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:48:14.941Z"
+    },
+    {
+      "keyword": "ai meeting notes - stenote",
+      "traffic": 12,
+      "difficulty": 39,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:49:43.025Z"
+    },
+    {
+      "keyword": "ai meeting notes: auto summary",
+      "traffic": 13,
+      "difficulty": 39,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:50:03.160Z"
+    },
+    {
+      "keyword": "flownote ai",
+      "traffic": 27,
+      "difficulty": 63,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:25:53.176Z"
+    },
+    {
+      "keyword": "google meet notes",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:28:16.844Z"
+    },
+    {
+      "keyword": "ai meeting notes",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:28:25.423Z"
+    },
+    {
+      "keyword": "meeting summaries ai",
+      "traffic": 22,
+      "difficulty": 55,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:29:17.500Z"
+    },
+    {
+      "keyword": "note-taking",
+      "traffic": 27,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:34:40.081Z"
+    },
+    {
+      "keyword": "summarize youtube",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:35:13.444Z"
+    },
+    {
+      "keyword": "video summarizer",
+      "traffic": 19,
+      "difficulty": 50,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:37:05.043Z"
+    },
+    {
+      "keyword": "record audio",
+      "traffic": 26,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:38:44.974Z"
+    },
+    {
+      "keyword": "take meeting notes",
+      "traffic": 25,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:39:41.504Z"
+    },
+    {
+      "keyword": "ai summary meetings",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:40:03.083Z"
+    },
+    {
+      "keyword": "microsoft teams transcription",
+      "traffic": 23,
+      "difficulty": 56,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:41:09.170Z"
+    },
+    {
+      "keyword": "ai summary",
+      "traffic": 27,
+      "difficulty": 63,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:42:26.056Z"
+    },
+    {
+      "keyword": "quizzes",
+      "traffic": 28,
+      "difficulty": 64,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:43:01.683Z"
+    },
+    {
+      "keyword": "note organization",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:43:32.935Z"
+    },
+    {
+      "keyword": "audio recorder",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:46:56.524Z"
+    },
+    {
+      "keyword": "flownote ai meeting note taker",
+      "traffic": 17,
+      "difficulty": 48,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:48:37.175Z"
+    },
+    {
+      "keyword": "flownote ai note taker",
+      "traffic": 19,
+      "difficulty": 50,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:48:48.085Z"
+    },
+    {
+      "keyword": "ai meeting notes & recorder",
+      "traffic": 17,
+      "difficulty": 48,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:49:31.247Z"
+    },
+    {
+      "keyword": "ai note taker free",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:50:25.246Z"
+    },
+    {
+      "keyword": "ai note taker-lecture recorder",
+      "traffic": 17,
+      "difficulty": 47,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:50:47.945Z"
+    },
+    {
+      "keyword": "fathom note taker",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:51:36.253Z"
+    },
+    {
+      "keyword": "auri: meeting transcripts",
+      "traffic": 23,
+      "difficulty": 58,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:51:47.583Z"
+    },
+    {
+      "keyword": "ai notes",
+      "traffic": 27,
+      "difficulty": 65,
+      "opportunity": 30,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:26:48.375Z"
+    },
+    {
+      "keyword": "note taking assistant",
+      "traffic": 24,
+      "difficulty": 61,
+      "opportunity": 30,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:31:39.331Z"
+    },
+    {
+      "keyword": "transcribe voice",
+      "traffic": 19,
+      "difficulty": 54,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:32:15.057Z"
+    },
+    {
+      "keyword": "voice notes",
+      "traffic": 27,
+      "difficulty": 65,
+      "opportunity": 30,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:36:53.909Z"
+    },
+    {
+      "keyword": "smart ai note taker",
+      "traffic": 24,
+      "difficulty": 61,
+      "opportunity": 30,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:38:01.116Z"
+    },
+    {
+      "keyword": "record conversations",
+      "traffic": 24,
+      "difficulty": 60,
+      "opportunity": 30,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:38:56.472Z"
+    },
+    {
+      "keyword": "ai meeting notes - noteon",
+      "traffic": 17,
+      "difficulty": 50,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:49:19.820Z"
+    },
+    {
+      "keyword": "ai meeting notes - tablo",
+      "traffic": 18,
+      "difficulty": 52,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:49:51.791Z"
+    },
+    {
+      "keyword": "ai note taker & meeting notes",
+      "traffic": 22,
+      "difficulty": 59,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:50:14.128Z"
+    },
+    {
+      "keyword": "simple ai note taker",
+      "traffic": 24,
+      "difficulty": 61,
+      "opportunity": 30,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:51:02.340Z"
+    },
+    {
+      "keyword": "dictation",
+      "traffic": 27,
+      "difficulty": 67,
+      "opportunity": 29,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:48:26.138Z"
+    },
+    {
+      "keyword": "meeting notes - confidential",
+      "traffic": 23,
+      "difficulty": 62,
+      "opportunity": 29,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:48:59.282Z"
+    },
+    {
+      "keyword": "minutetaker - meeting notes",
+      "traffic": 22,
+      "difficulty": 60,
+      "opportunity": 29,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:49:10.753Z"
+    },
+    {
+      "keyword": "ai note taker: meetnotes",
+      "traffic": 23,
+      "difficulty": 63,
+      "opportunity": 29,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:50:36.426Z"
+    },
+    {
+      "keyword": "voice memos: ai note taker",
+      "traffic": 22,
+      "difficulty": 60,
+      "opportunity": 29,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:51:13.539Z"
+    },
+    {
+      "keyword": "ai note taker & voice recorder",
+      "traffic": 22,
+      "difficulty": 61,
+      "opportunity": 29,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:51:24.873Z"
+    },
+    {
+      "keyword": "note taker",
+      "traffic": 27,
+      "difficulty": 70,
+      "opportunity": 28,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:26:15.428Z"
+    },
+    {
+      "keyword": "meeting note taker",
+      "traffic": 25,
+      "difficulty": 67,
+      "opportunity": 28,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:28:33.954Z"
+    },
+    {
+      "keyword": "ai note taker",
+      "traffic": 26,
+      "difficulty": 69,
+      "opportunity": 28,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:29:07.185Z"
+    },
+    {
+      "keyword": "call recorder",
+      "traffic": 16,
+      "difficulty": 53,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analyzedAt": "2025-12-30T22:47:29.581Z"
+    },
+    {
+      "keyword": "voice recorder",
+      "traffic": 26,
+      "difficulty": 73,
+      "opportunity": 26,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:32:03.429Z"
+    },
+    {
+      "keyword": "flashcards",
+      "traffic": 27,
+      "difficulty": 93,
+      "opportunity": 19,
+      "recommendation": "avoid",
+      "analyzedAt": "2025-12-30T22:42:49.863Z"
+    }
+  ],
+  "summary": {
+    "total": 147,
+    "excellent": 0,
+    "good": 0,
+    "consider": 105,
+    "challenging": 0,
+    "avoid": 36
+  }
+}

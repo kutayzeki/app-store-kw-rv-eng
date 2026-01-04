@@ -31,7 +31,7 @@ This tool automates the process of App Store keyword research and ASO (App Store
 
 3. Create a `.env` file in the root directory:
    ```
-   ANTHROPIC_API_KEY=your_anthropic_api_key_here
+   GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
 ## How to Run
@@ -51,15 +51,32 @@ Where `1294015297` is the App Store track ID (the numeric ID found in App Store 
 
 - **[app-store-scraper](https://github.com/facundoolano/app-store-scraper)**: For scraping App Store data and finding similar apps
 - **[ASO-V2](https://github.com/bambolee-digital/aso-v2)**: For analyzing keyword traffic and difficulty metrics
-- **[Claude Sonnet 4](https://www.anthropic.com/)**: For AI-powered keyword generation from app screenshots and metadata
+- **[Gemini 1.5 Flash](https://ai.google.dev/)**: For AI-powered keyword generation from app screenshots and metadata
 - **Node.js**: Runtime environment
 
 ## Output
 
 The script provides:
-- App data for the main app and 3 similar apps
-- AI-generated keywords for all apps
-- ASO analysis for 5 randomly selected keywords with traffic and difficulty scores
+- **Console Output**: Real-time progress with incremental saves
+- **Progressive JSON**: Results saved after each keyword (resumable)
+- **Final JSON**: Complete analysis data
+- **Summary Text File**: Human-readable report with recommendations
+
+### Saved Files
+- `results/{AppName}_progressive.json` - **Incremental saves** (updated after each keyword)
+- `results/{AppName}_progressive_final.json` - Complete final results
+- `results/{AppName}_progressive_summary.txt` - Business-ready report
+
+### Resumable Analysis
+If the analysis is interrupted, restart the same command - it will resume from where it left off by reading the progressive save file.
+
+### Analysis Results Include:
+- App data for main app and 7 similar apps (expanded from 3)
+- AI-generated keywords from app content + competitor analysis
+- App Store autocomplete suggestions (proven user searches)
+- ASO analysis for ALL keywords (not random samples)
+- Opportunity scores ranking keywords by value
+- Strategic recommendations (excellent/good/consider/challenging/avoid)
 
 ## Important Notes
 

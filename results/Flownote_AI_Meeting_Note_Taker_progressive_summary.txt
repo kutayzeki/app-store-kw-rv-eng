@@ -1,0 +1,50 @@
+================================================================================
+🏆 APP STORE KEYWORD ANALYSIS REPORT
+================================================================================
+
+📱 App: Flownote AI Meeting Note Taker
+📊 Analysis Date: 12/31/2025, 1:51:47 AM
+🔍 Competitors Analyzed: 7
+🏷️  Total Keywords Found: 147
+
+📊 ANALYSIS SUMMARY
+--------------------------------------------------
+Total Keywords Analyzed: 147
+🌟 Top Opportunities: 0
+📋 Worth Considering: 105
+⚠️  Challenging: 0
+❌ Avoid: 36
+
+📋 WORTH CONSIDERING
+--------------------------------------------------
+   askfred                        | Traffic:  15 | Difficulty:  10 | Opportunity: 45
+   meetgeek                       | Traffic:  15 | Difficulty:  26 | Opportunity: 39
+   integrate slack                | Traffic:  13 | Difficulty:  23 | Opportunity: 39
+   conversation notes             | Traffic:  13 | Difficulty:  24 | Opportunity: 38
+   notes instantly                | Traffic:  14 | Difficulty:  27 | Opportunity: 38
+   meeting highlights             | Traffic:  12 | Difficulty:  24 | Opportunity: 38
+   summarize conversations        | Traffic:  11 | Difficulty:  22 | Opportunity: 38
+   meeting summaries              | Traffic:  13 | Difficulty:  28 | Opportunity: 37
+   extract insights               | Traffic:  13 | Difficulty:  26 | Opportunity: 37
+   chat with recording            | Traffic:  19 | Difficulty:  37 | Opportunity: 37
+   meeting summarizer             | Traffic:  13 | Difficulty:  28 | Opportunity: 37
+   multilingual transcription     | Traffic:  11 | Difficulty:  25 | Opportunity: 37
+   interview transcriber          | Traffic:  12 | Difficulty:  26 | Opportunity: 37
+   file summarizer                | Traffic:  14 | Difficulty:  28 | Opportunity: 37
+   offline conversations          | Traffic:  12 | Difficulty:  25 | Opportunity: 37
+
+🔍 KEYWORD SOURCES
+--------------------------------------------------
+Main App Keywords: 15
+Competitor Keywords: 145
+Autocomplete Suggestions: 23
+
+🎯 BUSINESS RECOMMENDATIONS
+--------------------------------------------------
+📊 CONSIDER: Review "worth considering" keywords for potential
+   Look for keywords that align with your app's core features
+
+💡 NEXT STEPS:
+   1. Test top keywords in app title and description
+   2. Monitor ranking improvements over 2-4 weeks
+   3. Re-run analysis quarterly as market changes
