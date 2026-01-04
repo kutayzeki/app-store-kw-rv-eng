@@ -1,0 +1,72 @@
+================================================================================
+🏆 APP STORE KEYWORD ANALYSIS REPORT
+================================================================================
+
+📱 App: Voice Memo Dictation to Text
+📊 Analysis Date: 12/31/2025, 6:59:19 AM
+📈 Progress: 100/209 keywords analyzed
+
+📊 ANALYSIS SUMMARY
+--------------------------------------------------
+Total Keywords: 100
+Successfully Analyzed: 99
+⚠️  Failed to Analyze: 1 (API returned no data)
+🌟 Top Opportunities: 21
+📋 Worth Considering: 75
+⚠️  Challenging: 0
+❌ Avoid: 3
+
+🌟 TOP KEYWORD OPPORTUNITIES
+--------------------------------------------------
+🥇 dictate notes                  | Traffic:  21 | Difficulty:  45 | Opportunity: 35 | GOOD
+🥈 record to text                 | Traffic:  20 | Difficulty:  45 | Opportunity: 34 | GOOD
+🥉 spoken text                    | Traffic:  20 | Difficulty:  45 | Opportunity: 34 | GOOD
+   audio transcription            | Traffic:  19 | Difficulty:  42 | Opportunity: 35 | GOOD
+   dictate voice                  | Traffic:  19 | Difficulty:  38 | Opportunity: 36 | GOOD
+   transcription                  | Traffic:  15 | Difficulty:  31 | Opportunity: 37 | GOOD
+   instant summaries              | Traffic:  17 | Difficulty:  40 | Opportunity: 34 | GOOD
+   record meetings                | Traffic:  21 | Difficulty:  45 | Opportunity: 35 | GOOD
+   record interviews              | Traffic:  19 | Difficulty:  43 | Opportunity: 34 | GOOD
+   podcast transcription          | Traffic:  17 | Difficulty:  44 | Opportunity: 33 | GOOD
+   text alignment                 | Traffic:  15 | Difficulty:  29 | Opportunity: 37 | GOOD
+   tap mic                        | Traffic:  22 | Difficulty:  43 | Opportunity: 36 | GOOD
+   convert audio                  | Traffic:  15 | Difficulty:  37 | Opportunity: 34 | GOOD
+   dictation notes                | Traffic:  20 | Difficulty:  43 | Opportunity: 35 | GOOD
+   export audio                   | Traffic:  15 | Difficulty:  33 | Opportunity: 36 | GOOD
+   lawyers                        | Traffic:  16 | Difficulty:  32 | Opportunity: 37 | GOOD
+   writers                        | Traffic:  17 | Difficulty:  27 | Opportunity: 39 | GOOD
+   scholars                       | Traffic:  15 | Difficulty:  39 | Opportunity: 33 | GOOD
+   share export                   | Traffic:  18 | Difficulty:  37 | Opportunity: 36 | GOOD
+   listen class                   | Traffic:  15 | Difficulty:  27 | Opportunity: 38 | GOOD
+   ... and 1 more
+
+📋 WORTH CONSIDERING
+--------------------------------------------------
+   voice memo                     | Traffic:  27 | Difficulty:  73 | Opportunity: 27
+   voice to text                  | Traffic:  20 | Difficulty:  50 | Opportunity: 32
+   dictation                      | Traffic:  27 | Difficulty:  67 | Opportunity: 29
+   speech to text                 | Traffic:  20 | Difficulty:  51 | Opportunity: 32
+   transcribe audio               | Traffic:  19 | Difficulty:  48 | Opportunity: 32
+   transcribe video               | Traffic:  14 | Difficulty:  36 | Opportunity: 34
+   translate speech               | Traffic:  25 | Difficulty:  61 | Opportunity: 31
+   audio to text                  | Traffic:  20 | Difficulty:  48 | Opportunity: 33
+   video to text                  | Traffic:  14 | Difficulty:  36 | Opportunity: 34
+   real time dictation            | Traffic:  13 | Difficulty:  26 | Opportunity: 37
+   voice notes                    | Traffic:  27 | Difficulty:  65 | Opportunity: 30
+   text translator                | Traffic:  26 | Difficulty:  61 | Opportunity: 31
+   youtube transcribe             | Traffic:  25 | Difficulty:  60 | Opportunity: 31
+   translate text                 | Traffic:  26 | Difficulty:  60 | Opportunity: 32
+   voice dictation                | Traffic:  26 | Difficulty:  62 | Opportunity: 31
+
+🔧 FAILED ANALYSES (need retry)
+--------------------------------------------------
+1 keywords could not be analyzed. These should be retried.
+   - live transcription
+
+📈 ANALYSIS IN PROGRESS
+--------------------------------------------------
+Progress: 100/209 keywords analyzed
+Last updated: 12/31/2025, 6:59:19 AM
+
+💡 This summary will update automatically every 10 keywords.
+   Check back later for more complete results!

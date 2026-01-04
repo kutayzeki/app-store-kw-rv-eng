@@ -1,0 +1,1106 @@
+{
+  "appData": {
+    "title": "Voice Memo Dictation to Text",
+    "description": "Speak. Transcribe. Translate — instantly.\n\nTurn your voice into text, transcribe audio and video (even YouTube!), and translate speech in real time — all with just your voice. Save time, type less, and stay productive across all your Apple devices.\n\nKey Features of 'Dictation - Voice to Text':\n\nSmart Voice Dictation\n• Dictate in real time instead of typing—perfect for writing, notes, journaling, and messaging\n• Configure three independent language zones for multilingual projects\n• Supports more than 40 dictation languages\n\nAI-Powered Transcription\n• Convert voice memos, audio recordings, videos, and YouTube links into accurate text\n• 'Dictation - Voice to Text' uses advanced AI speech recognition for fast, high-quality results\n• Supports over 100 transcription languages\n\nBuilt-In Translation\n• Instantly translate spoken or written text into over 40 languages\n• Easily share translations across your favorite apps with 'Dictation - Voice to Text'\n\nPowerful File Handling and Sync\n• Save and access audio and text files via the Apple Files app\n• Organize, store, or export your dictation as text files or PDFs\n• Seamlessly sync across iPhone, iPad, Mac, and Apple Watch with iCloud\n\nQuick Export and Sharing Options\n• Share transcripts and translations via Mail, WhatsApp, Facebook, X, and more\n• Use one-tap export to streamline your workflow\n\nAccessibility Support\n• Fully compatible with VoiceOver for visually impaired users\n• Customize font sizes and button layout for better readability and ease of use\n\nAdditional Features of 'Dictation - Voice to Text':\n• Apple Shortcuts support\n• Undo manager for text edits\n• Custom user dictionary\n• Audio replay of recorded dictations\n• Apple Watch integration\n• Built-in backup tools\n• Adjustable text sizes\n• Optional dictation privacy mode (depending on device capabilities)\n\nImportant Notes Concerning Subscriptions of 'Dictation - Voice to Text'\nAll above AI Transcribe & Dictate subscriptions renew within 24 hours before the current period ends, and you will be charged through your iTunes account. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription. Manage or cancel your subscription from iTunes Account settings. See our Terms & Conditions (https://www.ibn-software.com/app-terms-conditions) and Privacy Policy (https://www.ibn-software.com/app-privacy-policy).",
+    "genres": [
+      "Productivity",
+      "Business"
+    ],
+    "screenshots": []
+  },
+  "lastAnalyzedIndex": 108,
+  "totalKeywords": 209,
+  "results": [
+    {
+      "keyword": "voice memo",
+      "traffic": 27,
+      "difficulty": 73,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:41:21.313Z"
+    },
+    {
+      "keyword": "voice to text",
+      "traffic": 20,
+      "difficulty": 50,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:41:32.467Z"
+    },
+    {
+      "keyword": "dictation",
+      "traffic": 27,
+      "difficulty": 67,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:41:43.504Z"
+    },
+    {
+      "keyword": "speech to text",
+      "traffic": 20,
+      "difficulty": 51,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:41:54.592Z"
+    },
+    {
+      "keyword": "transcribe audio",
+      "traffic": 19,
+      "difficulty": 48,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:42:05.580Z"
+    },
+    {
+      "keyword": "transcribe video",
+      "traffic": 14,
+      "difficulty": 36,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:42:16.807Z"
+    },
+    {
+      "keyword": "translate speech",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:42:28.129Z"
+    },
+    {
+      "keyword": "audio to text",
+      "traffic": 20,
+      "difficulty": 48,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:42:39.032Z"
+    },
+    {
+      "keyword": "video to text",
+      "traffic": 14,
+      "difficulty": 36,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:42:49.891Z"
+    },
+    {
+      "keyword": "real time dictation",
+      "traffic": 13,
+      "difficulty": 26,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:43:00.913Z"
+    },
+    {
+      "keyword": "voice notes",
+      "traffic": 27,
+      "difficulty": 65,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:43:12.105Z"
+    },
+    {
+      "keyword": "text translator",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:43:23.575Z"
+    },
+    {
+      "keyword": "youtube transcribe",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:43:34.931Z"
+    },
+    {
+      "keyword": "translate text",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:43:46.525Z"
+    },
+    {
+      "keyword": "dictate notes",
+      "traffic": 21,
+      "difficulty": 45,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:43:57.372Z"
+    },
+    {
+      "keyword": "voice dictation",
+      "traffic": 26,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:44:08.808Z"
+    },
+    {
+      "keyword": "voice translation",
+      "traffic": 25,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:44:20.267Z"
+    },
+    {
+      "keyword": "record to text",
+      "traffic": 20,
+      "difficulty": 45,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:44:31.692Z"
+    },
+    {
+      "keyword": "spoken text",
+      "traffic": 20,
+      "difficulty": 45,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:44:42.751Z"
+    },
+    {
+      "keyword": "instant transcribe",
+      "traffic": 13,
+      "difficulty": 33,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:44:53.734Z"
+    },
+    {
+      "keyword": "instant translate",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:45:05.101Z"
+    },
+    {
+      "keyword": "audio transcription",
+      "traffic": 19,
+      "difficulty": 42,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:45:16.501Z"
+    },
+    {
+      "keyword": "video transcription",
+      "traffic": 25,
+      "difficulty": 55,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:45:27.505Z"
+    },
+    {
+      "keyword": "speech translation",
+      "traffic": 25,
+      "difficulty": 54,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:45:38.388Z"
+    },
+    {
+      "keyword": "dictate voice",
+      "traffic": 19,
+      "difficulty": 38,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:45:49.417Z"
+    },
+    {
+      "keyword": "transcribe voice to text",
+      "traffic": 17,
+      "difficulty": 48,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:46:00.455Z"
+    },
+    {
+      "keyword": "transcription",
+      "traffic": 15,
+      "difficulty": 31,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:46:11.605Z"
+    },
+    {
+      "keyword": "ai notes",
+      "traffic": 27,
+      "difficulty": 65,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:46:23.142Z"
+    },
+    {
+      "keyword": "ai refined note",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:46:34.533Z"
+    },
+    {
+      "keyword": "instant summaries",
+      "traffic": 17,
+      "difficulty": 40,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:46:45.358Z"
+    },
+    {
+      "keyword": "summaries",
+      "traffic": 18,
+      "difficulty": 69,
+      "opportunity": 23,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:46:56.301Z"
+    },
+    {
+      "keyword": "key points",
+      "traffic": 27,
+      "difficulty": 54,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:47:07.871Z"
+    },
+    {
+      "keyword": "important points",
+      "traffic": 14,
+      "difficulty": 27,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:47:18.641Z"
+    },
+    {
+      "keyword": "lecture notes",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:47:30.303Z"
+    },
+    {
+      "keyword": "meeting notes",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:47:41.203Z"
+    },
+    {
+      "keyword": "record meetings",
+      "traffic": 21,
+      "difficulty": 45,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:47:52.367Z"
+    },
+    {
+      "keyword": "record interviews",
+      "traffic": 19,
+      "difficulty": 43,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:48:02.845Z"
+    },
+    {
+      "keyword": "podcast transcription",
+      "traffic": 17,
+      "difficulty": 44,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:48:13.932Z"
+    },
+    {
+      "keyword": "multiple languages",
+      "traffic": 25,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:48:24.888Z"
+    },
+    {
+      "keyword": "transcribe translate",
+      "traffic": 24,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:48:35.931Z"
+    },
+    {
+      "keyword": "icloud sync",
+      "traffic": 22,
+      "difficulty": 48,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:48:46.469Z"
+    },
+    {
+      "keyword": "share notes",
+      "traffic": 27,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:48:57.598Z"
+    },
+    {
+      "keyword": "export notes",
+      "traffic": 22,
+      "difficulty": 48,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:49:08.465Z"
+    },
+    {
+      "keyword": "pdf export",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:49:19.578Z"
+    },
+    {
+      "keyword": "text export",
+      "traffic": 14,
+      "difficulty": 27,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:49:30.259Z"
+    },
+    {
+      "keyword": "accurate transcription",
+      "traffic": 12,
+      "difficulty": 26,
+      "opportunity": 37,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:49:43.376Z"
+    },
+    {
+      "keyword": "author style",
+      "traffic": 14,
+      "difficulty": 17,
+      "opportunity": 42,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:49:52.826Z"
+    },
+    {
+      "keyword": "rewrite notes",
+      "traffic": 13,
+      "difficulty": 25,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:50:03.505Z"
+    },
+    {
+      "keyword": "dictation to text",
+      "traffic": 19,
+      "difficulty": 47,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:50:15.742Z"
+    },
+    {
+      "keyword": "speaking to notes",
+      "traffic": 25,
+      "difficulty": 52,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:50:26.138Z"
+    },
+    {
+      "keyword": "create notes",
+      "traffic": 26,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:50:37.411Z"
+    },
+    {
+      "keyword": "convert speech to text",
+      "traffic": 17,
+      "difficulty": 46,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:50:48.123Z"
+    },
+    {
+      "keyword": "real time speech to text",
+      "traffic": 11,
+      "difficulty": 32,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:50:58.887Z"
+    },
+    {
+      "keyword": "delete notes",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:51:09.978Z"
+    },
+    {
+      "keyword": "copy notes",
+      "traffic": 27,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:51:20.773Z"
+    },
+    {
+      "keyword": "edit notes",
+      "traffic": 27,
+      "difficulty": 59,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:51:31.965Z"
+    },
+    {
+      "keyword": "unlimited notes",
+      "traffic": 26,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:51:42.876Z"
+    },
+    {
+      "keyword": "font size",
+      "traffic": 27,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:51:53.716Z"
+    },
+    {
+      "keyword": "text alignment",
+      "traffic": 15,
+      "difficulty": 29,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:52:03.885Z"
+    },
+    {
+      "keyword": "color theme",
+      "traffic": 27,
+      "difficulty": 61,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:52:14.598Z"
+    },
+    {
+      "keyword": "languages",
+      "traffic": 27,
+      "difficulty": 74,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:52:26.183Z"
+    },
+    {
+      "keyword": "speech language",
+      "traffic": 14,
+      "difficulty": 32,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:52:36.997Z"
+    },
+    {
+      "keyword": "tap mic",
+      "traffic": 22,
+      "difficulty": 43,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:52:48.268Z"
+    },
+    {
+      "keyword": "notes creation",
+      "traffic": 13,
+      "difficulty": 22,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:52:59.086Z"
+    },
+    {
+      "keyword": "text notes",
+      "traffic": 27,
+      "difficulty": 59,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:53:10.209Z"
+    },
+    {
+      "keyword": "convert audio",
+      "traffic": 15,
+      "difficulty": 37,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:53:21.040Z"
+    },
+    {
+      "keyword": "convert speech",
+      "traffic": 14,
+      "difficulty": 31,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:53:31.724Z"
+    },
+    {
+      "keyword": "dictation notes",
+      "traffic": 20,
+      "difficulty": 43,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:53:42.826Z"
+    },
+    {
+      "keyword": "customize options",
+      "traffic": 14,
+      "difficulty": 24,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:53:53.378Z"
+    },
+    {
+      "keyword": "transcribe",
+      "traffic": 15,
+      "difficulty": 65,
+      "opportunity": 23,
+      "recommendation": "avoid",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:54:04.426Z"
+    },
+    {
+      "keyword": "translate",
+      "traffic": 27,
+      "difficulty": 94,
+      "opportunity": 19,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:54:15.591Z"
+    },
+    {
+      "keyword": "record",
+      "traffic": 28,
+      "difficulty": 84,
+      "opportunity": 23,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:54:27.122Z"
+    },
+    {
+      "keyword": "voice recorder",
+      "traffic": 26,
+      "difficulty": 73,
+      "opportunity": 26,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:54:38.070Z"
+    },
+    {
+      "keyword": "live transcription",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T03:54:42.185Z"
+    },
+    {
+      "keyword": "translation",
+      "traffic": 27,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:54:53.054Z"
+    },
+    {
+      "keyword": "export txt",
+      "traffic": 14,
+      "difficulty": 22,
+      "opportunity": 40,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:55:04.017Z"
+    },
+    {
+      "keyword": "export srt",
+      "traffic": 14,
+      "difficulty": 21,
+      "opportunity": 40,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:55:13.412Z"
+    },
+    {
+      "keyword": "export audio",
+      "traffic": 15,
+      "difficulty": 33,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:55:24.440Z"
+    },
+    {
+      "keyword": "live captioning",
+      "traffic": 13,
+      "difficulty": 30,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:55:35.126Z"
+    },
+    {
+      "keyword": "teachers",
+      "traffic": 27,
+      "difficulty": 77,
+      "opportunity": 25,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:55:45.570Z"
+    },
+    {
+      "keyword": "students",
+      "traffic": 27,
+      "difficulty": 70,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:55:56.234Z"
+    },
+    {
+      "keyword": "professionals",
+      "traffic": 15,
+      "difficulty": 54,
+      "opportunity": 27,
+      "recommendation": "avoid",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:56:07.050Z"
+    },
+    {
+      "keyword": "reporters",
+      "traffic": 27,
+      "difficulty": 50,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:56:17.769Z"
+    },
+    {
+      "keyword": "lawyers",
+      "traffic": 16,
+      "difficulty": 32,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:56:28.453Z"
+    },
+    {
+      "keyword": "writers",
+      "traffic": 17,
+      "difficulty": 27,
+      "opportunity": 39,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:56:39.065Z"
+    },
+    {
+      "keyword": "scholars",
+      "traffic": 15,
+      "difficulty": 39,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:56:49.226Z"
+    },
+    {
+      "keyword": "transcribe local files",
+      "traffic": 12,
+      "difficulty": 33,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:57:00.436Z"
+    },
+    {
+      "keyword": "search voice notes",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:57:11.562Z"
+    },
+    {
+      "keyword": "manage files",
+      "traffic": 23,
+      "difficulty": 50,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:57:22.014Z"
+    },
+    {
+      "keyword": "share export",
+      "traffic": 18,
+      "difficulty": 37,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:57:32.677Z"
+    },
+    {
+      "keyword": "lecture training",
+      "traffic": 13,
+      "difficulty": 24,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:57:43.410Z"
+    },
+    {
+      "keyword": "listen class",
+      "traffic": 15,
+      "difficulty": 27,
+      "opportunity": 38,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:57:54.068Z"
+    },
+    {
+      "keyword": "conference negotiation",
+      "traffic": 11,
+      "difficulty": 26,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:58:04.879Z"
+    },
+    {
+      "keyword": "interview",
+      "traffic": 14,
+      "difficulty": 54,
+      "opportunity": 27,
+      "recommendation": "avoid",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:58:15.259Z"
+    },
+    {
+      "keyword": "meeting minutes",
+      "traffic": 14,
+      "difficulty": 32,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:58:25.810Z"
+    },
+    {
+      "keyword": "business negotiation",
+      "traffic": 12,
+      "difficulty": 24,
+      "opportunity": 38,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:58:36.059Z"
+    },
+    {
+      "keyword": "audio files",
+      "traffic": 27,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:58:46.903Z"
+    },
+    {
+      "keyword": "hard of hearing",
+      "traffic": 13,
+      "difficulty": 23,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:58:57.356Z"
+    },
+    {
+      "keyword": "esl",
+      "traffic": 18,
+      "difficulty": 57,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:59:08.647Z"
+    },
+    {
+      "keyword": "deaf",
+      "traffic": 18,
+      "difficulty": 40,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:59:19.236Z"
+    },
+    {
+      "keyword": "real time transcribe",
+      "traffic": 13,
+      "difficulty": 32,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:59:30.017Z"
+    },
+    {
+      "keyword": "voice transcriber",
+      "traffic": 19,
+      "difficulty": 44,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:59:41.264Z"
+    },
+    {
+      "keyword": "type with voice",
+      "traffic": 20,
+      "difficulty": 45,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T03:59:52.161Z"
+    },
+    {
+      "keyword": "dictate typing",
+      "traffic": 14,
+      "difficulty": 23,
+      "opportunity": 39,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T04:00:02.483Z"
+    },
+    {
+      "keyword": "voice into text",
+      "traffic": 20,
+      "difficulty": 46,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T04:00:30.839Z"
+    },
+    {
+      "keyword": "real time transcription",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T04:00:34.960Z"
+    },
+    {
+      "keyword": "import audio",
+      "traffic": 20,
+      "difficulty": 44,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T04:00:45.689Z"
+    },
+    {
+      "keyword": "import video",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T04:01:00.370Z"
+    },
+    {
+      "keyword": "speech recognition",
+      "traffic": 19,
+      "difficulty": 46,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T04:01:11.856Z"
+    }
+  ],
+  "lastUpdated": "2025-12-31T04:01:11.856Z"
+}

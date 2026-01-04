@@ -1,0 +1,1686 @@
+{
+  "appData": {
+    "title": "Calorie Tracker・Diet: Food AI",
+    "description": "FoodAI is your comprehensive AI-powered diet and nutrition companion. Whether you’re committed to the keto diet, intermittent fasting, or the mediterranean diet, Food AI creates a personalized plan based on your height, weight, allergies, target weight, and dietary preferences. The app supports a wide range of dietary needs, including the ketogenic diet plan, paleo diet, anti-inflammatory diet, and diabetic diet, ensuring that your goals are met with precision.\n\nEffortlessly log your meals by snapping a photo or providing a brief description. FoodAI’s advanced artificial intelligence technology instantly recognizes your meals, accurately calculating macronutrients and calories. Whether you focus on high protein foods, low calorie snacks, or fiber-rich foods, Food AI simplifies tracking. The app is perfect for those on a high protein diet plan, seeking high protein snacks, or following a low carb diet plan.\n\nTrack your daily intake of essential nutrients, including vitamin D, iron, magnesium, and potassium-rich foods. FoodAI offers detailed insights into your nutrient consumption, helping you monitor foods high in iron, vitamin D foods, and potassium-rich foods. Review your intake over a day, week, or month, ensuring you meet dietary goals whether you’re on a DASH diet, carnivore diet, or pescatarian diet.\n\nConsult your personal AI dietitian for tailored advice on achieving ketosis, the best way to lose weight, or planning healthy meals for dinner. Get instant, personalized responses whether you’re focused on losing weight fast, finding the best fat burner, or exploring metabolism boosters. You can ask about any diet plans including fodmaps diet and brat diet. The app also helps you maintain a calorie deficit and provides effective strategies for weight loss, including meal plans for weight loss, hcg diet, and weight loss supplements.\n\nFoodAI supports diverse dietary preferences, including vegetarian diets, making it easy to find healthy snacks, high protein breakfasts, and low calorie snacks that fit your lifestyle. The app also helps with specific goals, like finding the best way to lose belly fat or managing a high protein diet.\n\nExplore healthy meals for dinner, high fiber foods, and iron-rich foods with FoodAI. The app guides you in making informed decisions, whether you’re following a ketogenic diet, interested in foods high in magnesium, or looking for high protein snacks. Food AI is your ultimate tool for effective weight loss programs, offering meal plans for weight loss, weight watcher insights, and the fastest way to lose weight. Whether you’re aiming to lose weight, build muscle, or simply eat healthier, Food AI provides everything you need to succeed.\n\nSubscription information:\n\n- To access pro features, you should have an active subscription. Subscription periods are 1 month, 6 months and 1 year. Subscription renews every month, 6 months or year respectively. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the current period. Account will be charged for renewal within 24-hours prior to the end of the current period.\n- You can cancel your subscription via this url: https://support.apple.com/en-us/HT202039\n- Privacy Policy: https://futuresoftcompany.com/foodai/privacypolicy\n- Terms of Use: https://futuresoftcompany.com/foodai/termsofservice",
+    "genres": [
+      "Health & Fitness",
+      "Food & Drink"
+    ],
+    "screenshots": []
+  },
+  "lastAnalyzedIndex": 166,
+  "totalKeywords": 167,
+  "results": [
+    {
+      "keyword": "calorie tracker",
+      "traffic": 26,
+      "difficulty": 65,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:36:46.498Z"
+    },
+    {
+      "keyword": "diet food ai",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:36:57.783Z"
+    },
+    {
+      "keyword": "keto diet",
+      "traffic": 27,
+      "difficulty": 74,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:37:09.730Z"
+    },
+    {
+      "keyword": "intermittent fasting",
+      "traffic": 24,
+      "difficulty": 74,
+      "opportunity": 25,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:37:21.491Z"
+    },
+    {
+      "keyword": "mediterranean diet",
+      "traffic": 25,
+      "difficulty": 69,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:37:32.882Z"
+    },
+    {
+      "keyword": "ketogenic diet plan",
+      "traffic": 25,
+      "difficulty": 55,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:37:43.923Z"
+    },
+    {
+      "keyword": "paleo diet",
+      "traffic": 27,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:37:54.821Z"
+    },
+    {
+      "keyword": "diabetic diet",
+      "traffic": 26,
+      "difficulty": 52,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:38:05.702Z"
+    },
+    {
+      "keyword": "meal logging",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:38:17.105Z"
+    },
+    {
+      "keyword": "calorie counting",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T20:38:21.697Z"
+    },
+    {
+      "keyword": "macronutrients tracking",
+      "traffic": 13,
+      "difficulty": 31,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:38:31.826Z"
+    },
+    {
+      "keyword": "nutrient tracking",
+      "traffic": 25,
+      "difficulty": 54,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:38:42.667Z"
+    },
+    {
+      "keyword": "ai dietitian",
+      "traffic": 19,
+      "difficulty": 44,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:38:53.595Z"
+    },
+    {
+      "keyword": "lose weight",
+      "traffic": 27,
+      "difficulty": 65,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:39:05.503Z"
+    },
+    {
+      "keyword": "weight loss plan",
+      "traffic": 25,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:39:16.261Z"
+    },
+    {
+      "keyword": "healthy meals",
+      "traffic": 24,
+      "difficulty": 51,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:39:27.461Z"
+    },
+    {
+      "keyword": "high protein diet",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:39:39.095Z"
+    },
+    {
+      "keyword": "low carb diet",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:39:50.060Z"
+    },
+    {
+      "keyword": "weight loss programs",
+      "traffic": 24,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:40:01.444Z"
+    },
+    {
+      "keyword": "fasting tracker",
+      "traffic": 26,
+      "difficulty": 69,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:40:12.790Z"
+    },
+    {
+      "keyword": "food recognition",
+      "traffic": 16,
+      "difficulty": 34,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:40:23.740Z"
+    },
+    {
+      "keyword": "calorie deficit",
+      "traffic": 26,
+      "difficulty": 63,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:40:34.939Z"
+    },
+    {
+      "keyword": "meal plans for weight loss",
+      "traffic": 23,
+      "difficulty": 59,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:40:46.401Z"
+    },
+    {
+      "keyword": "healthy snacks",
+      "traffic": 20,
+      "difficulty": 42,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:40:57.243Z"
+    },
+    {
+      "keyword": "high protein breakfast",
+      "traffic": 16,
+      "difficulty": 38,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:41:08.409Z"
+    },
+    {
+      "keyword": "calorie counter ai",
+      "traffic": 25,
+      "difficulty": 65,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:41:19.459Z"
+    },
+    {
+      "keyword": "calorie counter",
+      "traffic": 26,
+      "difficulty": 79,
+      "opportunity": 24,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:41:30.950Z"
+    },
+    {
+      "keyword": "nutrition assistant",
+      "traffic": 15,
+      "difficulty": 34,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:41:41.732Z"
+    },
+    {
+      "keyword": "diet tracker",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:41:52.812Z"
+    },
+    {
+      "keyword": "ai food recognition",
+      "traffic": 17,
+      "difficulty": 43,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:42:03.707Z"
+    },
+    {
+      "keyword": "meal tracker",
+      "traffic": 26,
+      "difficulty": 58,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:42:14.893Z"
+    },
+    {
+      "keyword": "nutrition tracking",
+      "traffic": 25,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:42:26.326Z"
+    },
+    {
+      "keyword": "weight loss plans",
+      "traffic": 25,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:42:37.656Z"
+    },
+    {
+      "keyword": "custom meal plans",
+      "traffic": 18,
+      "difficulty": 44,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:42:48.433Z"
+    },
+    {
+      "keyword": "food database",
+      "traffic": 26,
+      "difficulty": 51,
+      "opportunity": 35,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:42:59.170Z"
+    },
+    {
+      "keyword": "protein tracker",
+      "traffic": 26,
+      "difficulty": 63,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:43:09.929Z"
+    },
+    {
+      "keyword": "carb tracker",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:43:21.258Z"
+    },
+    {
+      "keyword": "food scanner",
+      "traffic": 26,
+      "difficulty": 70,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:43:32.073Z"
+    },
+    {
+      "keyword": "macronutrient tracker",
+      "traffic": 24,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:43:42.870Z"
+    },
+    {
+      "keyword": "ai macro tracker",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:43:54.019Z"
+    },
+    {
+      "keyword": "macro tracker",
+      "traffic": 26,
+      "difficulty": 67,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:44:04.713Z"
+    },
+    {
+      "keyword": "ai nutrition tracking",
+      "traffic": 24,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:44:16.013Z"
+    },
+    {
+      "keyword": "food logging",
+      "traffic": 26,
+      "difficulty": 58,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:44:26.835Z"
+    },
+    {
+      "keyword": "ai meal scanner",
+      "traffic": 21,
+      "difficulty": 47,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:44:37.726Z"
+    },
+    {
+      "keyword": "ai food tracking",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:44:48.561Z"
+    },
+    {
+      "keyword": "ai calorie counter",
+      "traffic": 25,
+      "difficulty": 70,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:44:59.655Z"
+    },
+    {
+      "keyword": "nutrition tracker",
+      "traffic": 25,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:45:11.318Z"
+    },
+    {
+      "keyword": "barcode scanner",
+      "traffic": 26,
+      "difficulty": 68,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:45:22.223Z"
+    },
+    {
+      "keyword": "meal scanner",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:45:34.854Z"
+    },
+    {
+      "keyword": "personalized meal plans",
+      "traffic": 14,
+      "difficulty": 36,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:45:46.176Z"
+    },
+    {
+      "keyword": "weight loss",
+      "traffic": 27,
+      "difficulty": 66,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:45:57.515Z"
+    },
+    {
+      "keyword": "muscle gain",
+      "traffic": 27,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:46:09.093Z"
+    },
+    {
+      "keyword": "progress tracking",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T20:46:13.303Z"
+    },
+    {
+      "keyword": "track calories",
+      "traffic": 26,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:46:23.809Z"
+    },
+    {
+      "keyword": "track macros",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:46:34.688Z"
+    },
+    {
+      "keyword": "track progress",
+      "traffic": 19,
+      "difficulty": 45,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:46:45.821Z"
+    },
+    {
+      "keyword": "food tracking",
+      "traffic": 26,
+      "difficulty": 57,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:46:56.735Z"
+    },
+    {
+      "keyword": "meal plans",
+      "traffic": 27,
+      "difficulty": 63,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:47:08.018Z"
+    },
+    {
+      "keyword": "keto",
+      "traffic": 29,
+      "difficulty": 92,
+      "opportunity": 21,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:47:19.000Z"
+    },
+    {
+      "keyword": "vegan",
+      "traffic": 17,
+      "difficulty": 51,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:47:30.011Z"
+    },
+    {
+      "keyword": "high protein",
+      "traffic": 26,
+      "difficulty": 58,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:47:40.742Z"
+    },
+    {
+      "keyword": "gluten free",
+      "traffic": 15,
+      "difficulty": 39,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:47:51.400Z"
+    },
+    {
+      "keyword": "protein intake",
+      "traffic": 26,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:48:02.894Z"
+    },
+    {
+      "keyword": "carb intake",
+      "traffic": 27,
+      "difficulty": 56,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:48:13.837Z"
+    },
+    {
+      "keyword": "fat intake",
+      "traffic": 16,
+      "difficulty": 31,
+      "opportunity": 37,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:48:25.037Z"
+    },
+    {
+      "keyword": "healthy diet",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:48:36.093Z"
+    },
+    {
+      "keyword": "meal plan",
+      "traffic": 27,
+      "difficulty": 72,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:48:47.531Z"
+    },
+    {
+      "keyword": "healthy eating",
+      "traffic": 26,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:48:59.107Z"
+    },
+    {
+      "keyword": "photo food scanner",
+      "traffic": 16,
+      "difficulty": 40,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:49:10.686Z"
+    },
+    {
+      "keyword": "calorie scanner",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:49:22.252Z"
+    },
+    {
+      "keyword": "food diary",
+      "traffic": 27,
+      "difficulty": 63,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:49:33.047Z"
+    },
+    {
+      "keyword": "nutrition info",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:49:43.998Z"
+    },
+    {
+      "keyword": "diet planner",
+      "traffic": 26,
+      "difficulty": 56,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:49:55.672Z"
+    },
+    {
+      "keyword": "macronutrients",
+      "traffic": 26,
+      "difficulty": 54,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:50:06.610Z"
+    },
+    {
+      "keyword": "health goals",
+      "traffic": 21,
+      "difficulty": 45,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:50:18.595Z"
+    },
+    {
+      "keyword": "food calorie counter",
+      "traffic": 24,
+      "difficulty": 64,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:50:29.773Z"
+    },
+    {
+      "keyword": "food tracker",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:50:41.132Z"
+    },
+    {
+      "keyword": "weight gain",
+      "traffic": 27,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:50:52.190Z"
+    },
+    {
+      "keyword": "gain weight",
+      "traffic": 27,
+      "difficulty": 59,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:51:03.373Z"
+    },
+    {
+      "keyword": "nutrition plan",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:51:14.466Z"
+    },
+    {
+      "keyword": "personalized nutrition",
+      "traffic": 14,
+      "difficulty": 36,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:51:25.757Z"
+    },
+    {
+      "keyword": "daily coaching",
+      "traffic": 14,
+      "difficulty": 31,
+      "opportunity": 36,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:51:37.137Z"
+    },
+    {
+      "keyword": "nutrition coach",
+      "traffic": 26,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:51:48.053Z"
+    },
+    {
+      "keyword": "step counter",
+      "traffic": 26,
+      "difficulty": 70,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:51:59.329Z"
+    },
+    {
+      "keyword": "water counter",
+      "traffic": 17,
+      "difficulty": 36,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:52:10.491Z"
+    },
+    {
+      "keyword": "hydration tracker",
+      "traffic": 20,
+      "difficulty": 45,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:52:22.076Z"
+    },
+    {
+      "keyword": "macros tracker",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T20:52:26.770Z"
+    },
+    {
+      "keyword": "calorie diary",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:52:37.066Z"
+    },
+    {
+      "keyword": "progress tracker",
+      "traffic": 17,
+      "difficulty": 44,
+      "opportunity": 33,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:52:47.862Z"
+    },
+    {
+      "keyword": "apple health integration",
+      "traffic": 23,
+      "difficulty": 57,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:52:58.665Z"
+    },
+    {
+      "keyword": "meal reminders",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:53:10.015Z"
+    },
+    {
+      "keyword": "cal pal",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T20:53:14.348Z"
+    },
+    {
+      "keyword": "ai calorie tracker",
+      "traffic": 25,
+      "difficulty": 67,
+      "opportunity": 28,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:53:24.108Z"
+    },
+    {
+      "keyword": "ai food tracker",
+      "traffic": 26,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:53:35.105Z"
+    },
+    {
+      "keyword": "photo calorie counter",
+      "traffic": 24,
+      "difficulty": 60,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:53:46.368Z"
+    },
+    {
+      "keyword": "ai food scanner",
+      "traffic": 19,
+      "difficulty": 47,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:53:57.349Z"
+    },
+    {
+      "keyword": "diet coach",
+      "traffic": 27,
+      "difficulty": 64,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:54:08.776Z"
+    },
+    {
+      "keyword": "log meals",
+      "traffic": 27,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:54:19.770Z"
+    },
+    {
+      "keyword": "calorie tracking",
+      "traffic": 25,
+      "difficulty": 61,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:54:31.527Z"
+    },
+    {
+      "keyword": "food log",
+      "traffic": 27,
+      "difficulty": 56,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:54:42.976Z"
+    },
+    {
+      "keyword": "workout log",
+      "traffic": 21,
+      "difficulty": 49,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:54:54.465Z"
+    },
+    {
+      "keyword": "steps tracker",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:55:05.584Z"
+    },
+    {
+      "keyword": "apple health",
+      "traffic": 17,
+      "difficulty": 35,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:55:16.542Z"
+    },
+    {
+      "keyword": "fasting programs",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:55:27.741Z"
+    },
+    {
+      "keyword": "recipes",
+      "traffic": 28,
+      "difficulty": 78,
+      "opportunity": 26,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:55:39.515Z"
+    },
+    {
+      "keyword": "shopping list",
+      "traffic": 18,
+      "difficulty": 53,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:55:50.538Z"
+    },
+    {
+      "keyword": "water tracker",
+      "traffic": 22,
+      "difficulty": 60,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:56:01.593Z"
+    },
+    {
+      "keyword": "photo food log",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:56:12.864Z"
+    },
+    {
+      "keyword": "daily calories",
+      "traffic": 26,
+      "difficulty": 54,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:56:23.996Z"
+    },
+    {
+      "keyword": "balanced diet",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:56:35.304Z"
+    },
+    {
+      "keyword": "nutrition facts",
+      "traffic": 18,
+      "difficulty": 41,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:56:46.104Z"
+    },
+    {
+      "keyword": "weight goals",
+      "traffic": 26,
+      "difficulty": 58,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:56:57.451Z"
+    },
+    {
+      "keyword": "fatsecret",
+      "traffic": 27,
+      "difficulty": 58,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:57:09.223Z"
+    },
+    {
+      "keyword": "dieting",
+      "traffic": 28,
+      "difficulty": 59,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:57:20.493Z"
+    },
+    {
+      "keyword": "exercise diary",
+      "traffic": 22,
+      "difficulty": 45,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:57:31.807Z"
+    },
+    {
+      "keyword": "weight tracker",
+      "traffic": 26,
+      "difficulty": 62,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:57:43.337Z"
+    },
+    {
+      "keyword": "health app sync",
+      "traffic": 26,
+      "difficulty": 59,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:57:54.174Z"
+    },
+    {
+      "keyword": "fitbit integration",
+      "traffic": 22,
+      "difficulty": 48,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:58:05.319Z"
+    },
+    {
+      "keyword": "apple watch",
+      "traffic": 18,
+      "difficulty": 38,
+      "opportunity": 36,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:58:16.480Z"
+    },
+    {
+      "keyword": "macros tracking",
+      "traffic": null,
+      "difficulty": null,
+      "opportunity": null,
+      "recommendation": "analysis_failed",
+      "analysisSucceeded": false,
+      "error": "Cannot read properties of undefined (reading '0')",
+      "analyzedAt": "2025-12-31T20:58:20.749Z"
+    },
+    {
+      "keyword": "nutrition database",
+      "traffic": 15,
+      "difficulty": 35,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:58:30.816Z"
+    },
+    {
+      "keyword": "community support",
+      "traffic": 16,
+      "difficulty": 38,
+      "opportunity": 34,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:58:41.772Z"
+    },
+    {
+      "keyword": "image recognition food",
+      "traffic": 14,
+      "difficulty": 37,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:58:52.937Z"
+    },
+    {
+      "keyword": "water tracking",
+      "traffic": 21,
+      "difficulty": 47,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:59:04.327Z"
+    },
+    {
+      "keyword": "diet calendar",
+      "traffic": 26,
+      "difficulty": 55,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:59:15.787Z"
+    },
+    {
+      "keyword": "voice food log",
+      "traffic": 26,
+      "difficulty": 60,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:59:27.088Z"
+    },
+    {
+      "keyword": "food photo scan",
+      "traffic": 16,
+      "difficulty": 36,
+      "opportunity": 35,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:59:37.932Z"
+    },
+    {
+      "keyword": "high protein low carb",
+      "traffic": 24,
+      "difficulty": 57,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T20:59:49.167Z"
+    },
+    {
+      "keyword": "free calorie counter",
+      "traffic": 24,
+      "difficulty": 58,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:00:00.201Z"
+    },
+    {
+      "keyword": "track weight",
+      "traffic": 26,
+      "difficulty": 58,
+      "opportunity": 32,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:00:12.375Z"
+    },
+    {
+      "keyword": "calorie tracker free",
+      "traffic": 24,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:00:23.560Z"
+    },
+    {
+      "keyword": "free calorie tracker арр",
+      "traffic": 23,
+      "difficulty": 58,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:00:32.880Z"
+    },
+    {
+      "keyword": "calorie tracker-scan food",
+      "traffic": 23,
+      "difficulty": 59,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:00:43.688Z"
+    },
+    {
+      "keyword": "calorie tracker weight gain",
+      "traffic": 23,
+      "difficulty": 59,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:00:55.356Z"
+    },
+    {
+      "keyword": "calorie tracker – numi ai",
+      "traffic": 23,
+      "difficulty": 61,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:01:06.359Z"
+    },
+    {
+      "keyword": "calorie tracker: skinny fit ai",
+      "traffic": 16,
+      "difficulty": 45,
+      "opportunity": 32,
+      "recommendation": "good",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:01:17.366Z"
+    },
+    {
+      "keyword": "betterfit - calorie tracker",
+      "traffic": 23,
+      "difficulty": 60,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:01:29.507Z"
+    },
+    {
+      "keyword": "bioslim - ai calorie tracker",
+      "traffic": 23,
+      "difficulty": 61,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:01:41.220Z"
+    },
+    {
+      "keyword": "food calorie tracker",
+      "traffic": 24,
+      "difficulty": 61,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:01:52.143Z"
+    },
+    {
+      "keyword": "keto diet app free",
+      "traffic": 25,
+      "difficulty": 59,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:02:02.785Z"
+    },
+    {
+      "keyword": "keto diet app",
+      "traffic": 26,
+      "difficulty": 71,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:02:13.963Z"
+    },
+    {
+      "keyword": "carb manager keto diet tracker",
+      "traffic": 23,
+      "difficulty": 59,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:02:24.997Z"
+    },
+    {
+      "keyword": "keto diet app－low carb manager",
+      "traffic": 23,
+      "difficulty": 60,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:02:36.586Z"
+    },
+    {
+      "keyword": "keto diet app － carb tracker",
+      "traffic": 23,
+      "difficulty": 62,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:02:47.941Z"
+    },
+    {
+      "keyword": "keto diet app & recipes",
+      "traffic": 23,
+      "difficulty": 60,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:02:59.209Z"
+    },
+    {
+      "keyword": "keto diets uab",
+      "traffic": 25,
+      "difficulty": 53,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:03:10.132Z"
+    },
+    {
+      "keyword": "keto diet recipes",
+      "traffic": 25,
+      "difficulty": 60,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:03:21.309Z"
+    },
+    {
+      "keyword": "keto diet app - carb genius",
+      "traffic": 21,
+      "difficulty": 56,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:03:32.272Z"
+    },
+    {
+      "keyword": "total keto diet: low carb app",
+      "traffic": 22,
+      "difficulty": 57,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:03:43.212Z"
+    },
+    {
+      "keyword": "intermittent fasting tracker free",
+      "traffic": 23,
+      "difficulty": 59,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:03:54.601Z"
+    },
+    {
+      "keyword": "intermittent fasting free",
+      "traffic": 22,
+      "difficulty": 57,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:04:05.955Z"
+    },
+    {
+      "keyword": "free intermittent fasting app",
+      "traffic": 20,
+      "difficulty": 52,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:04:17.428Z"
+    },
+    {
+      "keyword": "intermittent fasting tracker",
+      "traffic": 23,
+      "difficulty": 67,
+      "opportunity": 27,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:04:28.769Z"
+    },
+    {
+      "keyword": "intermittent fasting timer",
+      "traffic": 20,
+      "difficulty": 53,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:04:39.969Z"
+    },
+    {
+      "keyword": "intermittent fasting plans and guidance",
+      "traffic": 20,
+      "difficulty": 53,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:04:51.377Z"
+    },
+    {
+      "keyword": "simple intermittent fasting",
+      "traffic": 23,
+      "difficulty": 60,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:05:02.689Z"
+    },
+    {
+      "keyword": "bodyfast intermittent fasting",
+      "traffic": 23,
+      "difficulty": 60,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:05:14.233Z"
+    },
+    {
+      "keyword": "kompanion intermittent fasting",
+      "traffic": 20,
+      "difficulty": 55,
+      "opportunity": 30,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:05:25.417Z"
+    },
+    {
+      "keyword": "mediterranean diet free app",
+      "traffic": 23,
+      "difficulty": 56,
+      "opportunity": 31,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:05:36.878Z"
+    },
+    {
+      "keyword": "free mediterranean diet",
+      "traffic": 23,
+      "difficulty": 52,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:05:47.475Z"
+    },
+    {
+      "keyword": "mediterranean diet & meal plan",
+      "traffic": 23,
+      "difficulty": 63,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:05:58.632Z"
+    },
+    {
+      "keyword": "mediterranean diet + meal plan",
+      "traffic": 13,
+      "difficulty": 36,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:06:09.859Z"
+    },
+    {
+      "keyword": "mediterranean diet recipe",
+      "traffic": 13,
+      "difficulty": 38,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:06:21.019Z"
+    },
+    {
+      "keyword": "mediterranean diet assistant",
+      "traffic": 12,
+      "difficulty": 33,
+      "opportunity": 34,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:06:33.279Z"
+    },
+    {
+      "keyword": "mediterranean diet-meal plan",
+      "traffic": 12,
+      "difficulty": 36,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:06:44.474Z"
+    },
+    {
+      "keyword": "mediterranean diet and recipes",
+      "traffic": 12,
+      "difficulty": 35,
+      "opportunity": 33,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:06:54.997Z"
+    },
+    {
+      "keyword": "my mediterranean diet tracker",
+      "traffic": 23,
+      "difficulty": 61,
+      "opportunity": 29,
+      "recommendation": "consider",
+      "analysisSucceeded": true,
+      "error": null,
+      "analyzedAt": "2025-12-31T21:07:06.185Z"
+    }
+  ],
+  "lastUpdated": "2025-12-31T21:07:06.185Z"
+}

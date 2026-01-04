@@ -1,0 +1,76 @@
+================================================================================
+🏆 APP STORE KEYWORD ANALYSIS REPORT
+================================================================================
+
+📱 App: Calorie Tracker・Diet: Food AI
+📊 Analysis Date: 1/1/2026, 12:07:06 AM
+📈 Progress: 167/167 keywords analyzed
+
+📊 ANALYSIS SUMMARY
+--------------------------------------------------
+Total Keywords: 167
+Successfully Analyzed: 162
+⚠️  Failed to Analyze: 5 (API returned no data)
+🌟 Top Opportunities: 23
+📋 Worth Considering: 139
+⚠️  Challenging: 0
+❌ Avoid: 0
+
+🌟 TOP KEYWORD OPPORTUNITIES
+--------------------------------------------------
+🥇 ai dietitian                   | Traffic:  19 | Difficulty:  44 | Opportunity: 34 | GOOD
+🥈 food recognition               | Traffic:  16 | Difficulty:  34 | Opportunity: 36 | GOOD
+🥉 healthy snacks                 | Traffic:  20 | Difficulty:  42 | Opportunity: 35 | GOOD
+   high protein breakfast         | Traffic:  16 | Difficulty:  38 | Opportunity: 34 | GOOD
+   nutrition assistant            | Traffic:  15 | Difficulty:  34 | Opportunity: 35 | GOOD
+   ai food recognition            | Traffic:  17 | Difficulty:  43 | Opportunity: 33 | GOOD
+   custom meal plans              | Traffic:  18 | Difficulty:  44 | Opportunity: 33 | GOOD
+   track progress                 | Traffic:  19 | Difficulty:  45 | Opportunity: 33 | GOOD
+   gluten free                    | Traffic:  15 | Difficulty:  39 | Opportunity: 33 | GOOD
+   fat intake                     | Traffic:  16 | Difficulty:  31 | Opportunity: 37 | GOOD
+   photo food scanner             | Traffic:  16 | Difficulty:  40 | Opportunity: 34 | GOOD
+   health goals                   | Traffic:  21 | Difficulty:  45 | Opportunity: 35 | GOOD
+   water counter                  | Traffic:  17 | Difficulty:  36 | Opportunity: 36 | GOOD
+   hydration tracker              | Traffic:  20 | Difficulty:  45 | Opportunity: 34 | GOOD
+   progress tracker               | Traffic:  17 | Difficulty:  44 | Opportunity: 33 | GOOD
+   apple health                   | Traffic:  17 | Difficulty:  35 | Opportunity: 36 | GOOD
+   nutrition facts                | Traffic:  18 | Difficulty:  41 | Opportunity: 34 | GOOD
+   exercise diary                 | Traffic:  22 | Difficulty:  45 | Opportunity: 35 | GOOD
+   apple watch                    | Traffic:  18 | Difficulty:  38 | Opportunity: 36 | GOOD
+   nutrition database             | Traffic:  15 | Difficulty:  35 | Opportunity: 35 | GOOD
+   ... and 3 more
+
+📋 WORTH CONSIDERING
+--------------------------------------------------
+   calorie tracker                | Traffic:  26 | Difficulty:  65 | Opportunity: 30
+   diet food ai                   | Traffic:  26 | Difficulty:  61 | Opportunity: 31
+   keto diet                      | Traffic:  27 | Difficulty:  74 | Opportunity: 27
+   intermittent fasting           | Traffic:  24 | Difficulty:  74 | Opportunity: 25
+   mediterranean diet             | Traffic:  25 | Difficulty:  69 | Opportunity: 27
+   ketogenic diet plan            | Traffic:  25 | Difficulty:  55 | Opportunity: 33
+   paleo diet                     | Traffic:  27 | Difficulty:  55 | Opportunity: 34
+   diabetic diet                  | Traffic:  26 | Difficulty:  52 | Opportunity: 35
+   meal logging                   | Traffic:  26 | Difficulty:  55 | Opportunity: 34
+   macronutrients tracking        | Traffic:  13 | Difficulty:  31 | Opportunity: 35
+   nutrient tracking              | Traffic:  25 | Difficulty:  54 | Opportunity: 33
+   lose weight                    | Traffic:  27 | Difficulty:  65 | Opportunity: 30
+   weight loss plan               | Traffic:  25 | Difficulty:  57 | Opportunity: 32
+   healthy meals                  | Traffic:  24 | Difficulty:  51 | Opportunity: 34
+   high protein diet              | Traffic:  25 | Difficulty:  60 | Opportunity: 31
+
+🔧 FAILED ANALYSES (need retry)
+--------------------------------------------------
+5 keywords could not be analyzed. These should be retried.
+   - calorie counting
+   - progress tracking
+   - macros tracker
+   - cal pal
+   - macros tracking
+
+📈 ANALYSIS IN PROGRESS
+--------------------------------------------------
+Progress: 167/167 keywords analyzed
+Last updated: 1/1/2026, 12:07:06 AM
+
+💡 This summary will update automatically every 10 keywords.
+   Check back later for more complete results!
