@@ -1,0 +1,76 @@
+================================================================================
+🏆 APP STORE KEYWORD ANALYSIS REPORT
+================================================================================
+
+📱 App: AI Calorie Tracker by Yazio
+📊 Analysis Date: 1/5/2026, 1:29:45 AM
+📈 Progress: 152/152 keywords analyzed
+
+📊 ANALYSIS SUMMARY
+--------------------------------------------------
+Total Keywords: 152
+Successfully Analyzed: 147
+⚠️  Failed to Analyze: 5 (API returned no data)
+🌟 Top Opportunities: 21
+📋 Worth Considering: 126
+⚠️  Challenging: 0
+❌ Avoid: 0
+
+🌟 TOP KEYWORD OPPORTUNITIES
+--------------------------------------------------
+🥇 community support              | Traffic:  16 | Difficulty:  37 | Opportunity: 35 | GOOD
+🥈 smart food scan                | Traffic:  16 | Difficulty:  37 | Opportunity: 35 | GOOD
+🥉 voice logging                  | Traffic:  20 | Difficulty:  43 | Opportunity: 35 | GOOD
+   nutritionists                  | Traffic:  15 | Difficulty:  28 | Opportunity: 38 | GOOD
+   track progress                 | Traffic:  19 | Difficulty:  45 | Opportunity: 33 | GOOD
+   apple watch                    | Traffic:  18 | Difficulty:  38 | Opportunity: 36 | GOOD
+   exercise diary                 | Traffic:  22 | Difficulty:  45 | Opportunity: 35 | GOOD
+   paleo diet                     | Traffic:  18 | Difficulty:  34 | Opportunity: 37 | GOOD
+   wellness solution              | Traffic:  19 | Difficulty:  42 | Opportunity: 35 | GOOD
+   water counter                  | Traffic:  17 | Difficulty:  36 | Opportunity: 36 | GOOD
+   food servings                  | Traffic:  16 | Difficulty:  30 | Opportunity: 38 | GOOD
+   food recognition               | Traffic:  15 | Difficulty:  28 | Opportunity: 38 | GOOD
+   health goals                   | Traffic:  21 | Difficulty:  45 | Opportunity: 35 | GOOD
+   personalized plan              | Traffic:  16 | Difficulty:  39 | Opportunity: 34 | GOOD
+   progress tracker               | Traffic:  17 | Difficulty:  44 | Opportunity: 33 | GOOD
+   fat burning                    | Traffic:  16 | Difficulty:  32 | Opportunity: 37 | GOOD
+   body status                    | Traffic:  15 | Difficulty:  29 | Opportunity: 37 | GOOD
+   healthy lifestyle              | Traffic:  20 | Difficulty:  44 | Opportunity: 34 | GOOD
+   immunity                       | Traffic:  15 | Difficulty:  35 | Opportunity: 35 | GOOD
+   baby food tracker              | Traffic:  17 | Difficulty:  41 | Opportunity: 34 | GOOD
+   ... and 1 more
+
+📋 WORTH CONSIDERING
+--------------------------------------------------
+   calorie tracker                | Traffic:  26 | Difficulty:  64 | Opportunity: 30
+   ai calorie tracker             | Traffic:  25 | Difficulty:  67 | Opportunity: 28
+   intermittent fasting           | Traffic:  24 | Difficulty:  72 | Opportunity: 26
+   food tracker                   | Traffic:  26 | Difficulty:  60 | Opportunity: 32
+   weight loss                    | Traffic:  27 | Difficulty:  66 | Opportunity: 30
+   calorie counter                | Traffic:  26 | Difficulty:  79 | Opportunity: 24
+   fasting                        | Traffic:  27 | Difficulty:  97 | Opportunity: 17
+   recipes                        | Traffic:  28 | Difficulty:  84 | Opportunity: 23
+   meal plans                     | Traffic:  27 | Difficulty:  64 | Opportunity: 31
+   diet tracker                   | Traffic:  26 | Difficulty:  59 | Opportunity: 32
+   nutrition tracker              | Traffic:  25 | Difficulty:  59 | Opportunity: 31
+   food diary                     | Traffic:  27 | Difficulty:  63 | Opportunity: 31
+   barcode scanner                | Traffic:  26 | Difficulty:  65 | Opportunity: 30
+   fasting tracker                | Traffic:  26 | Difficulty:  69 | Opportunity: 28
+   fatsecret                      | Traffic:  27 | Difficulty:  58 | Opportunity: 33
+
+🔧 FAILED ANALYSES (need retry)
+--------------------------------------------------
+5 keywords could not be analyzed. These should be retried.
+   - macros tracker
+   - nutrition plans
+   - progress tracking
+   - meals recipes
+   - progress charts
+
+📈 ANALYSIS IN PROGRESS
+--------------------------------------------------
+Progress: 152/152 keywords analyzed
+Last updated: 1/5/2026, 1:29:45 AM
+
+💡 This summary will update automatically every 10 keywords.
+   Check back later for more complete results!
