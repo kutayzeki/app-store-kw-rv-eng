@@ -12,21 +12,25 @@ import {
 } from '@/components/ui/dialog';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { Plus, Loader2, AlertCircle } from 'lucide-react';
+import { Plus, Loader2, AlertCircle, CheckCircle2 } from 'lucide-react';
+import { toast } from 'sonner';
 
 interface AddAppDialogProps {
     onAppAdded: () => void;
+    trigger?: React.ReactNode;
 }
 
-export function AddAppDialog({ onAppAdded }: AddAppDialogProps) {
+export function AddAppDialog({ onAppAdded, trigger }: AddAppDialogProps) {
     const [open, setOpen] = useState(false);
     const [appStoreId, setAppStoreId] = useState('');
     const [loading, setLoading] = useState(false);
+    const [status, setStatus] = useState<string>('');
     const [error, setError] = useState<string | null>(null);
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
         setError(null);
+        setStatus('');
 
         if (!appStoreId.trim()) {
             setError('Please enter an App Store ID');
@@ -40,34 +44,29 @@ export function AddAppDialog({ onAppAdded }: AddAppDialogProps) {
         }
 
         setLoading(true);
+        setStatus('Fetching app from App Store...');
 
         try {
-            // For now, just show a placeholder - actual analysis would require backend integration
-            setError('Analysis feature not yet implemented. Use Import to bring in existing results.');
-            setLoading(false);
-        } catch (err) {
-            setError(err instanceof Error ? err.message : 'Failed to analyze app');
-            setLoading(false);
-        }
-    };
+            const response = await fetch('/api/analyze', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ appStoreId: appStoreId.trim() }),
+            });
 
-    const handleImport = async () => {
-        setLoading(true);
-        setError(null);
-
-        try {
-            const response = await fetch('/api/import', { method: 'POST' });
             const result = await response.json();
 
             if (!response.ok) {
-                throw new Error(result.error || 'Import failed');
+                throw new Error(result.error || 'Analysis failed');
             }
 
+            setStatus('');
+            toast.success(`Analyzed "${result.app.title}" - ${result.keywordsAnalyzed} keywords found!`);
             setOpen(false);
             setAppStoreId('');
             onAppAdded();
         } catch (err) {
-            setError(err instanceof Error ? err.message : 'Import failed');
+            setError(err instanceof Error ? err.message : 'Analysis failed');
+            setStatus('');
         } finally {
             setLoading(false);
         }
@@ -76,16 +75,18 @@ export function AddAppDialog({ onAppAdded }: AddAppDialogProps) {
     return (
         <Dialog open={open} onOpenChange={setOpen}>
             <DialogTrigger asChild>
-                <Button>
-                    <Plus className="h-4 w-4 mr-2" />
-                    Add App
-                </Button>
+                {trigger || (
+                    <Button size="sm" className="gap-2">
+                        <Plus className="h-4 w-4" />
+                        Add App
+                    </Button>
+                )}
             </DialogTrigger>
             <DialogContent className="sm:max-w-md">
                 <DialogHeader>
-                    <DialogTitle>Add App for Analysis</DialogTitle>
+                    <DialogTitle>Analyze New App</DialogTitle>
                     <DialogDescription>
-                        Enter an App Store ID to analyze, or import existing results.
+                        Enter an App Store ID to analyze its keywords and opportunities.
                     </DialogDescription>
                 </DialogHeader>
 
@@ -100,12 +101,20 @@ export function AddAppDialog({ onAppAdded }: AddAppDialogProps) {
                             value={appStoreId}
                             onChange={(e) => setAppStoreId(e.target.value)}
                             disabled={loading}
+                            autoComplete="off"
                         />
                         <p className="text-xs text-muted-foreground">
                             Find this in the App Store URL: apps.apple.com/app/id
                             <span className="text-primary font-mono">310633997</span>
                         </p>
                     </div>
+
+                    {status && (
+                        <div className="flex items-center gap-2 text-sm text-blue-500">
+                            <Loader2 className="h-4 w-4 animate-spin" />
+                            {status}
+                        </div>
+                    )}
 
                     {error && (
                         <div className="flex items-center gap-2 text-sm text-destructive">
@@ -114,24 +123,24 @@ export function AddAppDialog({ onAppAdded }: AddAppDialogProps) {
                         </div>
                     )}
 
-                    <DialogFooter className="flex-col sm:flex-row gap-2">
+                    <DialogFooter>
                         <Button
                             type="button"
                             variant="outline"
-                            onClick={handleImport}
+                            onClick={() => setOpen(false)}
                             disabled={loading}
-                            className="w-full sm:w-auto"
                         >
-                            {loading ? (
-                                <Loader2 className="h-4 w-4 mr-2 animate-spin" />
-                            ) : null}
-                            Import Existing Results
+                            Cancel
                         </Button>
-                        <Button type="submit" disabled={loading} className="w-full sm:w-auto">
+                        <Button type="submit" disabled={loading}>
                             {loading ? (
-                                <Loader2 className="h-4 w-4 mr-2 animate-spin" />
-                            ) : null}
-                            Analyze App
+                                <>
+                                    <Loader2 className="h-4 w-4 mr-2 animate-spin" />
+                                    Analyzing...
+                                </>
+                            ) : (
+                                'Analyze App'
+                            )}
                         </Button>
                     </DialogFooter>
                 </form>
